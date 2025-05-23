@@ -2,7 +2,6 @@
 
 [![Repo Size](https://img.shields.io/github/repo-size/SantosMods/Urban-Pulse_World-Reimagined)](https://github.com/SantosMods/Urban-Pulse_World-Reimagined)
 [![Issues](https://img.shields.io/github/issues/SantosMods/Urban-Pulse_World-Reimagined)](https://github.com/SantosMods/Urban-Pulse_World-Reimagined/issues)
-[![License](https://img.shields.io/github/license/SantosMods/Urban-Pulse_World-Reimagined)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/SantosMods/Urban-Pulse_World-Reimagined)](https://github.com/SantosMods/Urban-Pulse_World-Reimagined/commits/main)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
