@@ -38,8 +38,8 @@ It is currently in the **conceptual and early development phase**, with primary 
 | Feature Type | Description                           | Status        |
 |--------------|---------------------------------------|---------------|
 | `YMAPs`      | Custom map regions and environments   | In Progress   |
-| `Nodes`      | AI pathing and navigation behavior    | In Planning   |
-| `Scenarios`  | World interaction and logic           | In Planning   |
+| `Nodes`      | AI pathing and navigation behavior    | In Progress   |
+| `Scenarios`  | World interaction and logic           | We have no clue how to make them PSO (No)   |
 | `MLOs`       | Custom interiors                      | Potential     |
 | `Audio`      | Environmental sounds or triggers      | Potential     |
 | `Props`      | World models or placed objects        | Potential     |
