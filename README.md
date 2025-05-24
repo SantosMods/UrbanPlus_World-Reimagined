@@ -2,7 +2,6 @@
 
 [![Repo Size](https://img.shields.io/github/repo-size/SantosMods/Urban-Pulse_World-Reimagined)](https://github.com/SantosMods/Urban-Pulse_World-Reimagined)
 [![Issues](https://img.shields.io/github/issues/SantosMods/Urban-Pulse_World-Reimagined)](https://github.com/SantosMods/Urban-Pulse_World-Reimagined/issues)
-[![License](https://img.shields.io/github/license/SantosMods/Urban-Pulse_World-Reimagined)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/SantosMods/Urban-Pulse_World-Reimagined)](https://github.com/SantosMods/Urban-Pulse_World-Reimagined/commits/main)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -38,8 +37,8 @@ It is currently in the **conceptual and early development phase**, with primary 
 | Feature Type | Description                           | Status        |
 |--------------|---------------------------------------|---------------|
 | `YMAPs`      | Custom map regions and environments   | In Progress   |
-| `Nodes`      | AI pathing and navigation behavior    | In Planning   |
-| `Scenarios`  | World interaction and logic           | In Planning   |
+| `Nodes`      | AI pathing and navigation behavior    | In Progress   |
+| `Scenarios`  | World interaction and logic           | We have no clue how to make them PSO (No)   |
 | `MLOs`       | Custom interiors                      | Potential     |
 | `Audio`      | Environmental sounds or triggers      | Potential     |
 | `Props`      | World models or placed objects        | Potential     |
