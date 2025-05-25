@@ -796,14 +796,14 @@
 | 1030 | — |
 | 1031 | — |
 | 1032 | — |
-| 1033 | — |
+| 1033 | ✅ Done (5/23/2025, 3:48pm EST - SantosMods.dev)|
 | 1034 | — |
 | 1035 | — |
-| 1036 | — |
+| 1036 | ✅ Done (5/23/2025, 3:48pm EST - SantosMods.dev)|
 | 1037 | — |
 | 1038 | — |
 | 1039 | — |
-| 1040 | ✅ Done (5/23/2025, 5:50pm EST - SantosMods.dev) |
+| 1040 | ✅ Done (5/23/2025, 5:50pm EST - SantosMods.dev)|
 | 1041 | — |
 | 1042 | — |
 | 1043 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
