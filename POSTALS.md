@@ -10,22 +10,22 @@
 
 | Postal | Status |
 |--------|--------|
-| 10 | — |
-| 11 | — |
-| 12 | — |
-| 13 | — |
-| 14 | — |
-| 15 | — |
-| 16 | — |
-| 17 | — |
-| 18 | — |
-| 19 | — |
-| 20 | — |
-| 21 | — |
-| 22 | — |
-| 23 | — |
-| 24 | — |
-| 25 | — |
+| 10 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 11 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 12 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 13 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 14 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 15 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 16 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 17 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 18 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 19 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 20 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 21 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 22 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 23 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 24 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 25 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
 | 26 | — |
 | 27 | — |
 | 28 | — |
