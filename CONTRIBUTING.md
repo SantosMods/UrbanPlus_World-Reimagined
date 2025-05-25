@@ -10,7 +10,7 @@ Currently, the best way to support this project is through **donations**.
 
 Your support helps cover the time, tools, and resources necessary to maintain and expand the project.
 
-### Donate via CashApp
+### Donate to the devs!
 
 You can contribute directly to any Developer you want!:
 - DeputyRyan: https://cash.app/$DeputyRyan322
