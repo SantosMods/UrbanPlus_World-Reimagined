@@ -1,14 +1,12 @@
-# 📫 POSTALS.md
-
 ![Status](https://img.shields.io/badge/Postals-Incompleat-red)
 
-> 📍 **Total Postals:** 865  
-> 🛠️ **Managed by:** [SantosMods.dev](https://santosmods.dev)  
-> 📘 **Purpose:** Internal spatial reference for mapping, YMAP placement, and world routing.
+> **Total Postals:** 865  
+> **Managed by:** [SantosMods.dev](https://santosmods.dev)  
+> **Purpose:** Internal spatial reference for mapping, YMAP placement, and world routing.
 
 ---
 
-## ✅ Postal Registry
+## Postal Registry
 
 | Postal | Status |
 |--------|--------|
