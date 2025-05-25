@@ -9,10 +9,10 @@ Acknowledgments for contributors to **Urban Pulse: World Reimagined**, a SantosM
 - **[Panther Development](https://discord.gg/jeK7BNtpyc)**  
   Partner studio contributing regional YMAP development.
 
-- **[JMMods](https://discord.gg/N9KgZx4KUn)**
+- **[JMMods](https://discord.gg/N9KgZx4KUn)**  
   Partner studio contributing regional YMAP development.
 
-- **[Louies Development](https://discord.gg/wPPmXBGj)**
+- **[Louies Development](https://discord.gg/wPPmXBGj)**  
   Partner studio contributing regional YMAP development.
 
 ---
