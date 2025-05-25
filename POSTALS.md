@@ -749,7 +749,7 @@
 | 946 | — |
 | 947 | — |
 | 948 | — |
-| 949 | ✅ Done (5/25/2025, 3:01am EST - SantosMods.dev)|
+| 949 | ✅ Done (5/25/2025, 3:01am EST - SantosMods.dev - DeputyRyan)|
 | 950 | — |
 | 951 | — |
 | 952 | — |
@@ -783,7 +783,7 @@
 | 1017 | — |
 | 1018 | — |
 | 1019 | — |
-| 1020 | ⚙️ In Development - SantosMods.dev|
+| 1020 | ⚙️ In Development - SantosMods.dev - DeputyRyan|
 | 1021 | — |
 | 1022 | — |
 | 1023 | — |
@@ -796,14 +796,14 @@
 | 1030 | — |
 | 1031 | — |
 | 1032 | — |
-| 1033 | ✅ Done (5/23/2025, 3:48pm EST - SantosMods.dev)|
+| 1033 | ✅ Done (5/23/2025, 5:50pm EST - SantosMods.dev - DeputyRyan)|
 | 1034 | — |
 | 1035 | — |
-| 1036 | ✅ Done (5/23/2025, 3:48pm EST - SantosMods.dev)|
+| 1036 | ✅ Done (5/23/2025, 5:50pm EST - SantosMods.dev - DeputyRyan)|
 | 1037 | — |
 | 1038 | — |
 | 1039 | — |
-| 1040 | ✅ Done (5/23/2025, 5:50pm EST - SantosMods.dev)|
+| 1040 | ✅ Done (5/23/2025, 5:50pm EST - SantosMods.dev - DeputyRyan)|
 | 1041 | — |
 | 1042 | — |
 | 1043 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
@@ -815,12 +815,12 @@
 | 1049 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
 | 1050 | — |
 | 1051 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 1052 | — |
-| 1053 | — |
-| 2001 | — |
-| 2002 | — |
-| 2003 | — |
-| 2004 | — |
+| 1052 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
+| 1053 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
+| 2001 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
+| 2002 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
+| 2003 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
+| 2004 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
 | 2005 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
 | 2006 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
 | 2007 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
