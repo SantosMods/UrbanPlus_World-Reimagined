@@ -47,17 +47,13 @@ It is currently in the **conceptual and early development phase**, with primary 
 
 ## Installation
 
-Coming Soon – when the first preview build is published.
+1. Download and extract the archive.
+2. Locate the folder containing the `fxmanifest.lua` file.
+3. Move that folder into your server’s `resources` directory.
+4. Add the following line to your `server.cfg` to ensure the resource starts:
 
----
-
-## Usage
-
-Once released, install by placing the resource in your `resources` directory and adding it to your `server.cfg`.
-
-Example:
 ```bash
-ensure urbanpulse
+ensure Urban-Pulse_World-Reimagined
 ```
 
 ---
