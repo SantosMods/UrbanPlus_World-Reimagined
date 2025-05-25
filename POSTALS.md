@@ -93,20 +93,20 @@
 | 93 | — |
 | 94 | — |
 | 95 | — |
-| 96 | — |
-| 97 | — |
-| 98 | — |
-| 99 | — |
-| 101 | — |
-| 102 | — |
-| 103 | — |
-| 104 | — |
-| 105 | — |
-| 106 | — |
-| 107 | — |
-| 108 | — |
-| 109 | — |
-| 110 | — |
+| 96 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
+| 97 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
+| 98 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
+| 99 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
+| 101 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
+| 102 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
+| 103 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
+| 104 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
+| 105 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
+| 106 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
+| 107 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
+| 108 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
+| 109 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
+| 110 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
 | 111 | — |
 | 112 | — |
 | 113 | — |
