@@ -764,14 +764,14 @@
 | 961 | — |
 | 962 | — |
 | 963 | — |
-| 1001 | — |
-| 1002 | — |
-| 1003 | — |
-| 1004 | — |
-| 1005 | — |
-| 1006 | — |
-| 1007 | — |
-| 1008 | — |
+| 1001 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 1002 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 1003 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 1004 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 1005 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 1006 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 1007 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 1008 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
 | 1009 | — |
 | 1010 | — |
 | 1011 | — |
@@ -844,16 +844,16 @@
 | 2025 | — |
 | 2026 | — |
 | 2027 | — |
-| 3001 | — |
-| 3002 | — |
-| 3003 | — |
-| 3004 | — |
-| 3005 | — |
-| 3006 | — |
-| 3007 | — |
-| 3008 | — |
-| 3009 | — |
-| 3010 | — |
+| 3001 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 3002 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 3003 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 3004 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 3005 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 3006 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 3007 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 3008 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 3009 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 3010 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
 | 3011 | — |
 | 3012 | — |
 | 3013 | — |
