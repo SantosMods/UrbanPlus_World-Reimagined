@@ -12,9 +12,10 @@ Your support helps cover the time, tools, and resources necessary to maintain an
 
 ### Donate via CashApp
 
-You can contribute directly through CashApp:
+You can contribute directly to any Developer you want!:
+- DeputyRyan: https://cash.app/$DeputyRyan322
+- JonJonGamesOffical: https://www.paypal.com/paypalme/JonJonGamesYT
 
-[https://cash.app/$DeputyRyan322](https://cash.app/$DeputyRyan322)
 
 Even small contributions make a difference and are greatly appreciated.
 
