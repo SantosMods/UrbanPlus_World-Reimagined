@@ -9,12 +9,14 @@
     <Item>703.ymap</Item>
     <Item>1033.ymap</Item>
     <Item>1036.ymap</Item>
+    <Item>sandy.trafficlights.ymap</Item>
   </YmapFilenames>
   <YtypFilenames />
   <YbnFilenames />
   <YndFilenames>
     <Item>nodes754.ynd</Item>
     <Item>nodes755.ynd</Item>
+    <Item>nodes723.ynd</Item>
   </YndFilenames>
   <YnvFilenames />
   <TrainsFilenames />
