@@ -14,7 +14,6 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contribution](#contribution)
 - [Support](#support)
 - [License](#license)
