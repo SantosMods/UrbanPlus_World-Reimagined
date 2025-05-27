@@ -1,4 +1,4 @@
-# UrbanPulse: World Reimagined
+# UrbanPlus: World Reimagined
 
 [![Repo Size](https://img.shields.io/github/repo-size/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined)
 [![Issues](https://img.shields.io/github/issues/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined/issues)
