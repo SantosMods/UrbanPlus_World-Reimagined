@@ -1,11 +1,11 @@
-# Urban Pulse: World Reimagined
+# UrbanPulse: World Reimagined
 
-[![Repo Size](https://img.shields.io/github/repo-size/SantosMods/Urban-Pulse_World-Reimagined)](https://github.com/SantosMods/Urban-Pulse_World-Reimagined)
-[![Issues](https://img.shields.io/github/issues/SantosMods/Urban-Pulse_World-Reimagined)](https://github.com/SantosMods/Urban-Pulse_World-Reimagined/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/SantosMods/Urban-Pulse_World-Reimagined)](https://github.com/SantosMods/Urban-Pulse_World-Reimagined/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/SantosMods/UrbanPulse_World-Reimagined)](https://github.com/SantosMods/Urban-Pulse_World-Reimagined)
+[![Issues](https://img.shields.io/github/issues/SantosMods/UrbanPulse_World-Reimagined)](https://github.com/SantosMods/Urban-Pulse_World-Reimagined/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/SantosMods/UrbanPulse_World-Reimagined)](https://github.com/SantosMods/Urban-Pulse_World-Reimagined/commits/main)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-> **Urban Pulse** is a FiveM-first world overhaul project redefining the landscape and street life of San Andreas.
+> **UrbanPulse** is a FiveM-first world overhaul project redefining the landscape and street life of San Andreas.
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## Overview
 
-**Urban Pulse: World Reimagined** began development on **May 22, 2025 at 8:00 PM EST**.
+**UrbanPulse: World Reimagined** began development on **May 22, 2025 at 8:00 PM EST**.
 
 It is currently in the **conceptual and early development phase**, with primary support for **FiveM servers**. Story Mode support is being evaluated for future builds.
 
@@ -52,7 +52,7 @@ It is currently in the **conceptual and early development phase**, with primary 
 4. Add the following line to your `server.cfg` to ensure the resource starts:
 
 ```bash
-ensure Urban-Pulse_World-Reimagined
+ensure UrbanPulse_World-Reimagined
 ```
 
 ---
@@ -73,7 +73,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for detailed contribution guidelines.
 
 ## Support
 
-Issues and suggestions should be submitted via [GitHub Issues](https://github.com/SantosMods/Urban-Pulse_World-Reimagined/issues).  
+Issues and suggestions should be submitted via [GitHub Issues](https://github.com/SantosMods/UrbanPulse_World-Reimagined/issues).  
 Direct inquiries may be sent to:
 
 - Website: [https://santosmods.dev](https://santosmods.dev)  
@@ -90,7 +90,7 @@ This project is licensed under a custom non-commercial license. See [`LICENSE`](
 
 ## Changelog
 
-See [Releases](https://github.com/SantosMods/Urban-Pulse_World-Reimagined/releases) for version history and changes.
+See [Releases](https://github.com/SantosMods/UrbanPulse_World-Reimagined/releases) for version history and changes.
 
 ---
 
@@ -108,4 +108,4 @@ See [Releases](https://github.com/SantosMods/Urban-Pulse_World-Reimagined/releas
 ## Contact
 
 Built and maintained by [SantosMods.dev](https://santosmods.dev)  
-Repository: [https://github.com/SantosMods/Urban-Pulse_World-Reimagined](https://github.com/SantosMods/Urban-Pulse_World-Reimagined)
+Repository: [https://github.com/SantosMods/UrbanPulse_World-Reimagined](https://github.com/SantosMods/UrbanPulse_World-Reimagined)
