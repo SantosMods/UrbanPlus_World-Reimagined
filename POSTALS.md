@@ -8,9 +8,9 @@
 
 ## Location Registry
 
-| Location | Status |
-|----------|--------|
-| Sandy Shores Traffic Lights | In Development |
+| Location | File Name | Status |
+|----------|-----------|--------|
+| Sandy Shores Traffic Lights | sandy.trafficlights.ymap | In Development |
 ---
 
 ## Postal Registry
