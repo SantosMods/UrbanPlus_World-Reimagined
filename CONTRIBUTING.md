@@ -1,6 +1,6 @@
-# Contributing to Urban Pulse: World Reimagined
+# Contributing to UrbanPlus: World Reimagined
 
-Thank you for your interest in supporting the development of **Urban Pulse: World Reimagined**!
+Thank you for your interest in supporting the development of **UrbanPlus: World Reimagined**!
 
 ---
 
@@ -27,4 +27,4 @@ We plan to open development contributions (PRs, feature branches, etc.) in the n
 
 ---
 
-Thank you for helping make Urban Pulse possible.
+Thank you for helping make UrbanPlus possible.
