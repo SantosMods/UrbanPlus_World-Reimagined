@@ -6,6 +6,13 @@
 
 ---
 
+## Location Registry
+
+| Location | Status |
+|----------|--------|
+| Sandy Shores Traffic Lights | In Development |
+---
+
 ## Postal Registry
 
 | Postal | Status |
