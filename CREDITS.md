@@ -1,4 +1,4 @@
-Acknowledgments for contributors to **Urban Pulse: World Reimagined**, a SantosMods.dev project.
+Acknowledgments for contributors to **UrbanPlus: World Reimagined**, a SantosMods.dev project.
 
 ---
 
