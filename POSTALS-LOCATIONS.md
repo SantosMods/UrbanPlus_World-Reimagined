@@ -1,6 +1,8 @@
 ![Status](https://img.shields.io/badge/Postals-Incompleat-red)
 
 > **Total Postals:** 865  
+> **Total Extras:** 1
+> **Total Addons:** 1
 > **Managed by:** [SantosMods.dev](https://santosmods.dev)  
 > **Purpose:** Internal spatial reference for mapping, YMAP placement, and world routing.
 
@@ -8,9 +10,10 @@
 
 ## Extra/Addon Registry
 
-| Exra Name | File Name | Status |
-|----------|-----------|--------|
-| Sandy Shores Traffic Lights | sandy.trafficlights.ymap | ⚙️ In Development - SantosMods.dev - DeputyRyan |
+| Addon Or Extra |Exra Name | File Name | Status |
+|----------------|----------|-----------|--------|
+| Extra | Sandy Shores Traffic Lights | sandy.trafficlights | ⚙️ In Development - SantosMods.dev - DeputyRyan |
+| Addon | Mount Chiliad Portaloos | addon.mount-chiliad-portaloos.ymap | ✅ Done (5/25/2025, 3:01am EST - SantosMods.dev - DeputyRyan)
 ---
 
 ## Postal Registry
