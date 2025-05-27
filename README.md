@@ -1,8 +1,8 @@
 # UrbanPulse: World Reimagined
 
-[![Repo Size](https://img.shields.io/github/repo-size/SantosMods/UrbanPulse_World-Reimagined)](https://github.com/SantosMods/Urban-Pulse_World-Reimagined)
-[![Issues](https://img.shields.io/github/issues/SantosMods/UrbanPulse_World-Reimagined)](https://github.com/SantosMods/Urban-Pulse_World-Reimagined/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/SantosMods/UrbanPulse_World-Reimagined)](https://github.com/SantosMods/Urban-Pulse_World-Reimagined/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined)
+[![Issues](https://img.shields.io/github/issues/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined/commits/main)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > **UrbanPulse** is a FiveM-first world overhaul project redefining the landscape and street life of San Andreas.
@@ -25,7 +25,7 @@
 
 ## Overview
 
-**UrbanPulse: World Reimagined** began development on **May 22, 2025 at 8:00 PM EST**.
+**UrbanPlus: World Reimagined** began development on **May 22, 2025 at 8:00 PM EST**.
 
 It is currently in the **conceptual and early development phase**, with primary support for **FiveM servers**. Story Mode support is being evaluated for future builds.
 
@@ -52,14 +52,14 @@ It is currently in the **conceptual and early development phase**, with primary 
 4. Add the following line to your `server.cfg` to ensure the resource starts:
 
 ```bash
-ensure UrbanPulse_World-Reimagined
+ensure UrbanPlus_World-Reimagined
 ```
 
 ---
 
 ## Contribution
 
-Want to help develop **Urban Pulse**?
+Want to help develop **UrbanPlus**?
 
 - Fork the repository
 - Create a feature branch (`git checkout -b feature/your-feature`)
@@ -90,7 +90,7 @@ This project is licensed under a custom non-commercial license. See [`LICENSE`](
 
 ## Changelog
 
-See [Releases](https://github.com/SantosMods/UrbanPulse_World-Reimagined/releases) for version history and changes.
+See [Releases](https://github.com/SantosMods/UrbanPlus_World-Reimagined/releases) for version history and changes.
 
 ---
 
@@ -108,4 +108,4 @@ See [Releases](https://github.com/SantosMods/UrbanPulse_World-Reimagined/release
 ## Contact
 
 Built and maintained by [SantosMods.dev](https://santosmods.dev)  
-Repository: [https://github.com/SantosMods/UrbanPulse_World-Reimagined](https://github.com/SantosMods/UrbanPulse_World-Reimagined)
+Repository: [https://github.com/SantosMods/UrbanPlus_World-Reimagined](https://github.com/SantosMods/UrbanPlus_World-Reimagined)
