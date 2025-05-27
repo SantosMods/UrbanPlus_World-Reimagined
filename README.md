@@ -5,7 +5,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined/commits/main)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-> **UrbanPulse** is a FiveM-first world overhaul project redefining the landscape and street life of San Andreas.
+> **UrbanPlus** is a FiveM-first world overhaul project redefining the landscape and street life of San Andreas.
 
 ---
 
