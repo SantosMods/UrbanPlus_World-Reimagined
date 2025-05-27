@@ -6,11 +6,11 @@
 
 ---
 
-## Location Registry
+## Extra/Addon Registry
 
-| Location | File Name | Status |
+| Exra Name | File Name | Status |
 |----------|-----------|--------|
-| Sandy Shores Traffic Lights | sandy.trafficlights.ymap | In Development |
+| Sandy Shores Traffic Lights | sandy.trafficlights.ymap | ⚙️ In Development - SantosMods.dev - DeputyRyan |
 ---
 
 ## Postal Registry
