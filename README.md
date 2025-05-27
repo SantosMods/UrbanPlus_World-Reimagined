@@ -96,12 +96,9 @@ See [Releases](https://github.com/SantosMods/UrbanPlus_World-Reimagined/releases
 
 ## Roadmap
 
-- [ ] Public concept preview
-- [ ] First YMAP drop
-- [ ] Node testing with AI logic
-- [ ] Scenario scripting system
-- [ ] SP support research
-- [ ] Interior pipeline development
+- [x] Public concept preview
+- [ ] First LCPDFR/GTA5-Mods Drop
+- [ ] First 1.0 Drop
 
 ---
 
