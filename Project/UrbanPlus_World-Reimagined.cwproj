@@ -2,14 +2,15 @@
   <Name>New CodeWalker Project</Name>
   <Version value="1" />
   <YmapFilenames>
-    <Item>1040.ymap</Item>
-    <Item>addon.mount-chiliad-portaloos.ymap</Item>
+    <Item>703.ymap</Item>
     <Item>949.ymap</Item>
     <Item>1020.ymap</Item>
-    <Item>703.ymap</Item>
-    <Item>1033.ymap</Item>
     <Item>1036.ymap</Item>
+    <Item>1040.ymap</Item>
+    <Item>addon.mount-chiliad-portaloos.ymap</Item>
     <Item>extra.sandy.trafficlights.ymap</Item>
+    <Item>1033.ymap</Item>
+    <Item>1023.ymap</Item>
   </YmapFilenames>
   <YtypFilenames />
   <YbnFilenames />
