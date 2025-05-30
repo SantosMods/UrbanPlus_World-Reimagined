@@ -15,6 +15,9 @@ Acknowledgments for contributors to **UrbanPlus: World Reimagined**, a SantosMod
 - **[Louies Development](https://discord.gg/wPPmXBGj)**  
   Partner studio contributing regional YMAP development.
 
+- **[Terex Development](https://discord.gg/u3SFYYMQBk)**  
+  Partner studio contributing regional YMAP development.
+
 ---
 
 ## 👤 Core Development Team
@@ -25,7 +28,7 @@ Acknowledgments for contributors to **UrbanPlus: World Reimagined**, a SantosMod
 - **Andrew B.** — YMAP Developer & Owner of Panther Development
 - **JonJonGamesOfficial** — YMAP Developer & Owner of JMMods
 - **Louie** - Map/YMAP Developer & Owner of Louies Development
-
+- **Nick** - Map/YMAP Developer & Owner of Terex Development
 ---
 
 ## 🧩 Contributors

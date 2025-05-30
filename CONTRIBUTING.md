@@ -17,6 +17,7 @@ You can contribute directly to any Developer you want!:
 - Andrew B.: https://cash.app/$andrewopaf
 - JonJonGamesOffical: https://www.paypal.com/paypalme/JonJonGamesYT
 - Louie: https://www.paypal.com/paypalme/louiedevelopment
+- Nick: https://cash.app/$NickN3309
 
 Even small contributions make a difference and are greatly appreciated.
 
