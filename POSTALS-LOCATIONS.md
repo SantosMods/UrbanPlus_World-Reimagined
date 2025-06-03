@@ -816,43 +816,43 @@
 | 1040 | ✅ Done (5/23/2025, 5:50pm EST - SantosMods.dev - DeputyRyan)|
 | 1041 | — |
 | 1042 | — |
-| 1043 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 1044 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 1043 | — |
+| 1044 | — |
 | 1045 | — |
 | 1046 | — |
 | 1047 | — |
-| 1048 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 1049 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 1048 | — |
+| 1049 | — |
 | 1050 | — |
-| 1051 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 1051 | — |
 | 1052 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
 | 1053 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
 | 2001 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
 | 2002 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
 | 2003 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
 | 2004 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
-| 2005 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2006 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2007 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2008 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2009 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2010 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2011 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2012 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2013 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2014 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2015 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2016 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2017 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2018 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2019 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2020 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2021 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2022 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2023 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2024 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2025 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
-| 2026 | Assigned To [Panther Development](https://discord.gg/jeK7BNtpyc) [Not Done]|
+| 2005 | — |
+| 2006 | — |
+| 2007 | — |
+| 2008 | — |
+| 2009 | — |
+| 2010 | — |
+| 2011 | — |
+| 2012 | — |
+| 2013 | — |
+| 2014 | — |
+| 2015 | — |
+| 2016 | — |
+| 2017 | — |
+| 2018 | — |
+| 2019 | — |
+| 2020 | — |
+| 2021 | — |
+| 2022 | — |
+| 2023 | — |
+| 2024 | — |
+| 2025 | — |
+| 2026 | — |
 | 2027 | — |
 | 3001 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
 | 3002 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
