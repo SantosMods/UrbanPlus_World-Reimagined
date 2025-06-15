@@ -37,10 +37,7 @@ It is currently in the **conceptual and early development phase**, with primary 
 |--------------|---------------------------------------|---------------|
 | `YMAPs`      | Custom map regions and environments   | In Progress   |
 | `Nodes`      | AI pathing and navigation behavior    | In Progress   |
-| `Scenarios`  | World interaction and logic           | No            |
 | `MLOs`       | Custom interiors                      | Potential     |
-| `Audio`      | Environmental sounds or triggers      | Potential     |
-| `Props`      | World models or placed objects        | Potential     |
 
 ---
 
@@ -58,14 +55,6 @@ ensure UrbanPlus_World-Reimagined
 ---
 
 ## Contribution
-
-Want to help develop **UrbanPlus**?
-
-- Fork the repository
-- Create a feature branch (`git checkout -b feature/your-feature`)
-- Commit your changes (`git commit -am 'Add new feature'`)
-- Push to the branch (`git push origin feature/your-feature`)
-- Submit a Pull Request
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) for detailed contribution guidelines.
 
@@ -91,14 +80,6 @@ This project is licensed under a custom non-commercial license. See [`LICENSE`](
 ## Changelog
 
 See [Releases](https://github.com/SantosMods/UrbanPlus_World-Reimagined/releases) for version history and changes.
-
----
-
-## Roadmap
-
-- [x] Public concept preview
-- [ ] First LCPDFR/GTA5-Mods Drop
-- [ ] First 1.0 Drop
 
 ---
 
