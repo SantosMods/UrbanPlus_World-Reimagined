@@ -1,5 +1,3 @@
-![Status](https://img.shields.io/badge/Postals-Incompleat-red)
-
 > **Total Postals:** 865  
 > **Total Extras:** 1  
 > **Total Addons:** 1  
