@@ -6,9 +6,6 @@ Acknowledgments for contributors to **UrbanPlus: World Reimagined**, a SantosMod
 - **[SantosMods.dev](https://santosmods.dev)**  
   Primary studio overseeing project design, planning, and publication.
 
-- **[Panther Development](https://discord.gg/jeK7BNtpyc)**  
-  Partner studio contributing regional YMAP development.
-
 - **[JMMods](https://discord.gg/N9KgZx4KUn)**  
   Partner studio contributing regional YMAP development.
 
