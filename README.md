@@ -12,13 +12,13 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [bob74_ipl Requirement](#bob74_ipl-requirement)
 - [Features](#features)
 - [Installation](#installation)
 - [Contribution](#contribution)
 - [Support](#support)
 - [License](#license)
 - [Changelog](#changelog)
-- [Roadmap](#roadmap)
 - [Contact](#contact)
 
 ---
@@ -31,24 +31,35 @@ It is currently in the **conceptual and early development phase**, with primary 
 
 ---
 
+## bob74_ipl Requirement
+
+Starting with recent builds, **UrbanPlus** now requires **bob74_ipl version 2.4.1**:  
+➡ [Download bob74_ipl 2.4.1](https://github.com/Bob74/bob74_ipl/releases/tag/2.4.1)
+
+> This requirement exists to address map holes that may occur during updates. Such issues are common when working with large-scale world modifications that involve a significant number of props and IPL overrides.
+
+Due to bob74_ipl being licensed under the [MIT License](https://github.com/Bob74/bob74_ipl/blob/master/LICENSE), we are permitted to include it directly within our releases for ease of installation. Moving forward, **bob74_ipl v2.4.1 will be bundled with all UrbanPlus distributions**.
+
+---
+
 ## Features
 
 | Feature Type | Description                           | Status        |
 |--------------|---------------------------------------|---------------|
-| `YMAPs`      | Custom map regions and environments   | In Progress   |
-| `Nodes`      | AI pathing and navigation behavior    | In Progress   |
-| `MLOs`       | Custom interiors                      | Potential     |
+| YMAPs        | Custom map regions and environments   | In Progress   |
+| Nodes        | AI pathing and navigation behavior    | In Progress   |
+| MLOs         | Custom interiors                      | Potential     |
 
 ---
 
 ## Installation
 
 1. Download and extract the archive.
-2. Locate the folder containing the `fxmanifest.lua` file.
-3. Move that folder into your server’s `resources` directory.
-4. Add the following line to your `server.cfg` to ensure the resource starts:
+2. Locate the folder containing the fxmanifest.lua file.
+3. Move that folder into your server’s resources directory.
+4. Add the following line to your server.cfg to ensure the resource starts:
 
-```bash
+``` LUA
 ensure UrbanPlus_World-Reimagined
 ```
 
@@ -56,7 +67,7 @@ ensure UrbanPlus_World-Reimagined
 
 ## Contribution
 
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) for detailed contribution guidelines.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines.
 
 ---
 
@@ -73,7 +84,7 @@ Direct inquiries may be sent to:
 
 ## License
 
-This project is licensed under a custom non-commercial license. See [`LICENSE`](LICENSE) for full terms.
+This project is licensed under a custom non-commercial license. See [LICENSE](LICENSE) for full terms.
 
 ---
 
