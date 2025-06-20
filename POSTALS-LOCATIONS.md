@@ -773,13 +773,13 @@
 | 962 | — |
 | 963 | — |
 | 1001 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
-| 1002 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
-| 1003 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
-| 1004 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
-| 1005 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
-| 1006 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
-| 1007 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
-| 1008 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 1002 | ✅ Done (6/16/2025, 1:09am EST - [Louies Development](https://discord.gg/7AaHPNT7Bh) L̷̊̏ǒ̷͝ü̸̆i̸͑̆e̸)|
+| 1003 | ✅ Done (6/16/2025, 1:09am EST - [Louies Development](https://discord.gg/7AaHPNT7Bh) L̷̊̏ǒ̷͝ü̸̆i̸͑̆e̸)|
+| 1004 | ✅ Done (6/16/2025, 1:09am EST - [Louies Development](https://discord.gg/7AaHPNT7Bh) L̷̊̏ǒ̷͝ü̸̆i̸͑̆e̸)|
+| 1005 | ✅ Done (6/16/2025, 1:09am EST - [Louies Development](https://discord.gg/7AaHPNT7Bh) L̷̊̏ǒ̷͝ü̸̆i̸͑̆e̸)|
+| 1006 | ✅ Done (6/16/2025, 1:09am EST - [Louies Development](https://discord.gg/7AaHPNT7Bh) L̷̊̏ǒ̷͝ü̸̆i̸͑̆e̸)|
+| 1007 | ✅ Done (6/16/2025, 1:09am EST - [Louies Development](https://discord.gg/7AaHPNT7Bh) L̷̊̏ǒ̷͝ü̸̆i̸͑̆e̸)|
+| 1008 | ✅ Done (6/16/2025, 1:09am EST - [Louies Development](https://discord.gg/7AaHPNT7Bh) L̷̊̏ǒ̷͝ü̸̆i̸͑̆e̸)|
 | 1009 | — |
 | 1010 | — |
 | 1011 | — |
@@ -791,10 +791,10 @@
 | 1017 | — |
 | 1018 | — |
 | 1019 | — |
-| 1020 | ⚙️ In Development - SantosMods.dev - DeputyRyan|
+| 1020 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
 | 1021 | — |
 | 1022 | — |
-| 1023 | ⚙️ In Development - SantosMods.dev - DeputyRyan|
+| 1023 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
 | 1024 | — |
 | 1025 | — |
 | 1026 | — |
@@ -823,12 +823,12 @@
 | 1049 | — |
 | 1050 | — |
 | 1051 | — |
-| 1052 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
-| 1053 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
-| 2001 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
-| 2002 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
-| 2003 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
-| 2004 | ⚙️ In Development - SantosMods.dev (Aiden J.)|
+| 1052 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
+| 1053 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
+| 2001 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
+| 2002 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
+| 2003 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
+| 2004 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
 | 2005 | — |
 | 2006 | — |
 | 2007 | — |
@@ -839,7 +839,7 @@
 | 2012 | — |
 | 2013 | — |
 | 2014 | — |
-| 2015 | ⚙️ In Development - SantosMods.dev - DeputyRyan|
+| 2015 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
 | 2016 | — |
 | 2017 | — |
 | 2018 | — |
