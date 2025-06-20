@@ -60,7 +60,7 @@ Due to bob74_ipl being licensed under the [MIT License](https://github.com/Bob74
 4. Add the following line to your server.cfg to ensure the resource starts:
 
 ``` LUA
-ensure UrbanPlus_World-Reimagined
+ensure [UrbanPlus]
 ```
 
 ---
