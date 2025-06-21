@@ -22,7 +22,6 @@ Acknowledgments for contributors to **UrbanPlus: World Reimagined**, a SantosMod
 - **DeputyRyan** — Project Lead & Founder of SantosMods.dev
 
 ### Regional Mapping
-- **Andrew B.** — YMAP Developer & Owner of Panther Development
 - **JonJonGamesOfficial** — YMAP Developer & Owner of JMMods
 - **Louie** - Map/YMAP Developer & Owner of Louies Development
 - **Nick** - Map/YMAP Developer & Owner of Terex Development
