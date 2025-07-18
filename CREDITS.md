@@ -2,7 +2,7 @@ Acknowledgments for contributors to **UrbanPlus: World Reimagined**, a SantosMod
 
 ---
 
-## 🏢 Development Studios
+## Development Studios
 - **[SantosMods.dev](https://santosmods.dev)**  
   Primary studio overseeing project design, planning, and publication.
 
@@ -17,7 +17,7 @@ Acknowledgments for contributors to **UrbanPlus: World Reimagined**, a SantosMod
 
 ---
 
-## 👤 Core Development Team
+## Core Development Team
 ### Lead Development
 - **DeputyRyan** — Project Lead & Founder of SantosMods.dev
 
@@ -27,11 +27,11 @@ Acknowledgments for contributors to **UrbanPlus: World Reimagined**, a SantosMod
 - **Nick** - Map/YMAP Developer & Owner of Terex Development
 ---
 
-## 🧩 Contributors
+## Contributors
 *This section is reserved for additional developers, artists, or testers as the project evolves.*
 
 ---
 
-## 📌 Notes
+## Notes
 - Roles and contributions are listed based on current project scope.
 - For business inquiries or to join development, contact via [SantosMods.dev](https://santosmods.dev).
