@@ -78,7 +78,7 @@ Direct inquiries may be sent to:
 
 - Website: [https://santosmods.dev](https://santosmods.dev)  
 - Email: system@santosmods.dev  
-- Discord: [discord.gg/Ab46BBrWtW](https://discord.gg/Ab46BBrWtW)
+- Discord: [discord.gg/Ab46BBrWtW](https://discord.gg/jvchRsD3C5)
 
 ---
 
