@@ -288,7 +288,7 @@
 | 354 | — |
 | 355 | — |
 | 356 | — |
-| 357 | — |
+| 357 | ✅ Done (7/27/2025 - SantosMods.dev - DeputyRyan)|
 | 358 | — |
 | 359 | — |
 | 360 | — |
@@ -584,7 +584,7 @@
 | 700 | — |
 | 701 | — |
 | 702 | — |
-| 703 | ✅ Done (5/25/2025 - SantosMods.dev)|
+| 703 | ✅ Done (5/25/2025 - SantosMods.dev - DeputyRyan)|
 | 704 | — |
 | 705 | — |
 | 706 | — |
@@ -825,7 +825,7 @@
 | 1051 | — |
 | 1052 | ✅ Done (7/6/2025 - SantosMods.dev - Aiden Jackson)|
 | 1053 | ✅ Done (7/6/2025 - SantosMods.dev - Aiden Jackson)|
-| 2001 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
+| 2001 | ✅ Done (7/27/2025 - SantosMods.dev - DeputyRyan)|
 | 2002 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
 | 2003 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
 | 2004 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
