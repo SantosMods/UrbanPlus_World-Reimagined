@@ -66,7 +66,7 @@ Because bob74_ipl is licensed under the [MIT License](https://github.com/Bob74/b
 4. Add the following line to your `server.cfg`:
 
 ```lua
-ensure UrbanPlus_World-Reimagined
+ensure [UrbanPlus]
 ```
 
 ---
