@@ -51,7 +51,7 @@ Because bob74_ipl is licensed under the [MIT License](https://github.com/Bob74/b
 |--------------|---------------------------------------|---------------|
 | YMAPs        | Custom map regions and environments   | In Progress   |
 | Nodes        | AI pathing and navigation behavior    | In Progress   |
-| Scenarios    | World interaction and ambient layout  | In Progress   |
+| Scenarios    | World interaction and ambient layout  | Not Planned   |
 | MLOs         | Custom interiors                      | Planned       |
 | Props        | Custom assets and environmental sets  | Planned       |
 | Audio        | Soundscape integration and ambience   | Potential     |
