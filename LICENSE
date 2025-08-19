@@ -1,81 +1,91 @@
-UrbanPlus: World Reimagined – License Agreement  
-Version: 3.0  
-Effective Date: 7/6/2025
+UrbanPlus: World Reimagined – License Agreement
+Version: 4.0
+Effective Date: 8/19/2025
 
-This project ("Work") is the exclusive intellectual property of SantosMods.dev. All rights are reserved unless explicitly stated otherwise in this License Agreement.
+This project ("Work") is the exclusive property of SantosMods.dev. All rights reserved unless allowed under this License.
 
-This License Agreement applies to all current, past, and future versions, releases, updates, expansions, or components of UrbanPlus: World Reimagined, superseding all previous versions.
-
----
-
-1. PERMITTED USE
-
-You are granted a non-exclusive, non-transferable, non-commercial, royalty-free, worldwide license to:
-
-- Use this mod on public or private FiveM servers for gameplay or server operation.
-- Modify, customize, or adapt this mod solely for personal or public use, provided all of the following conditions are met:
-  - Full, clear, and visible credit is always given to SantosMods.dev in any server, distribution, or display where this Work or any modification thereof is used.
-  - All copies, modified or unmodified, must include this License Agreement in full, unaltered.
-  - A link or clear written reference to the official source must be included wherever distributed.
-  - All modified versions must include a clear in-game notice, file naming convention (e.g., _MODIFIED_BY_), and visible text in any config or metadata file stating the nature of modifications and that it is unofficial.
-
-- Share original or modified versions under the following conditions:
-  - No payment, donation, subscription, or financial contribution of any kind may be required for access, use, or download.
-  - No portion of this Work may be used to solicit or generate financial benefit, directly or indirectly.
-  - Modified versions must clearly indicate they are modified versions and not official releases from SantosMods.dev.
-
-**Definition:**  
-*Financial benefit* includes any direct or indirect revenue, donations, ad impressions, monetized server perks, exclusive access, or any compensation tied to the use or distribution of this Work.
+This License replaces all older versions and applies to every release, update, or part of UrbanPlus: World Reimagined.
 
 ---
 
-2. PROHIBITED USE
+1. WHAT YOU CAN DO
 
-The following actions are strictly prohibited:
+You may:
+- Use this Work on any FiveM server, public or private.
+- Modify it for your own use or for use on a server, as long as:
+  - You give clear credit to SantosMods.dev (in-game, in server info, and in config/metadata files).
+  - You include this License, unaltered, with every copy or version.
+  - Modified versions clearly say they are unofficial (with a filename tag like _MODIFIED_BY_, an in-game note, and a statement in config/metadata).
 
-- Selling, licensing, sublicensing, or monetizing this Work or any derivative version.
-- Providing exclusive access to this Work or any derivative version in exchange for money, donations, subscription tiers, or any form of compensation or benefit.
-- Packaging or redistributing this Work or any portion thereof on any third-party website, platform, file host, or marketplace without written permission from SantosMods.dev.
-- Private redistribution, including direct file transfers, limited-access links, or gated downloads, is also prohibited without written permission.
-- Removing, altering, obscuring, or minimizing credits, licensing information, or attribution related to SantosMods.dev.
-- Extracting, repurposing, or reusing any assets, models, code, or components for unrelated projects without prior written permission.
-- Exclusive access models such as beta testing, early releases, or preview versions in exchange for financial contributions are strictly prohibited.
-
----
-
-3. SUPPORT
-
-SantosMods.dev will provide full support, including installation assistance, troubleshooting, and configuration help, to any legitimate user or server operator who requests assistance under the terms of this License Agreement.
-
-**Definition:**  
-*A legitimate user* is defined as any individual or server operator who fully complies with all terms of this License Agreement. Any violation voids access to official support.
+You may share this Work, original or modified, if:
+- It is free to download and not hidden behind donations, subscriptions, or paywalls, unless you have permission (see Section 2).
+- You provide a link back to the official source at SantosMods.dev.
+- You include this License Agreement in full.
+- You keep clear credit to SantosMods.dev.
+- Non-commercial modpacks are allowed under the same rules.
+- Mirrors and rehosts are allowed if credit and this License remain intact.
 
 ---
 
-4. SCOPE AND COVERAGE
+2. PAID ACCESS OR COMMERCIAL USE
 
-This License Agreement applies fully to all current, past, and future versions, releases, updates, expansions, or components of UrbanPlus: World Reimagined unless a separate written license agreement is issued by SantosMods.dev.
+- Selling or charging for this Work is not allowed **unless you get written permission** first.
+- To request permission, contact SantosMods.dev at:
+  - Email: system@santosmods.dev
+  - Discord: https://discord.gg/Zaa74kYNxG
+- Permission must be granted before you accept donations, sell access, or give perks tied to this Work.
+
+---
+
+3. WHAT YOU CANNOT DO
+
+Without permission, you may not:
+- Sell, license, or monetize this Work in any way.
+- Offer exclusive access in exchange for money, donations, or perks.
+- Share the Work privately through locked links, file transfers, or gated access.
+- Remove or hide credits, license information, or attribution.
+- Reuse assets, models, or code from this Work in unrelated projects.
+
+---
+
+4. SUPPORT
+
+SantosMods.dev offers free help and support to legitimate users.  
+A “legitimate user” is anyone who follows this License fully.  
+Violating the License means no official support.
 
 ---
 
 5. ENFORCEMENT
 
-Violations of this License Agreement may result in enforcement actions including, but not limited to, takedown requests, suspension of access, DMCA filings, and legal action under applicable intellectual property and contract law.
+If you break this License, SantosMods.dev may take action including:
+- File takedowns
+- DMCA claims
+- Legal action under applicable laws
 
 ---
 
-6. WARRANTY DISCLAIMER
+6. WARRANTY
 
-This Work is provided "as is" without any warranties, guarantees, or liabilities. SantosMods.dev is not responsible for any damages, losses, or conflicts resulting from the installation, use, or modification of this Work.
+This Work is provided “as is,” without any guarantees.  
+
+SantosMods.dev will fix any issues we reasonably can if they are reported to us.  
+We are not responsible for issues you do not report.  
+We are responsible for issues directly caused by this Work, but only if they are reported.  
+
+If the Work has been modified in any way, SantosMods.dev is not responsible for any problems, issues, or damages that result from the modified version. Responsibility only applies to the unmodified, official release.  
+
+SantosMods.dev is not responsible for damages, losses, or conflicts caused by misuse, unauthorized modification, or failure to report issues.
 
 ---
 
 7. ACCEPTANCE
 
-By downloading, installing, using, modifying, or distributing this Work, you expressly acknowledge, accept, and agree to comply in full with all terms and conditions set forth in this License Agreement.
+By downloading, using, modifying, or sharing this Work, you agree to follow all the rules in this License.
 
 ---
 
 8. CONTACT
 
-For official support, written permissions, or licensing inquiries, contact SantosMods.dev directly at system@santosmods.dev.
+For support, permissions, or licensing requests, contact:
+system@santosmods.dev or https://links.santosmods.dev/discord
