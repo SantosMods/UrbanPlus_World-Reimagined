@@ -385,7 +385,7 @@
 | 500 | — |
 | 501 | — |
 | 502 | — |
-| 503 | — |
+| 503 | ✅ Done (8/19/2025 - SantosMods.dev - DeputyRyan) (Has no direct map)||
 | 504 | — |
 | 505 | — |
 | 506 | — |
@@ -396,8 +396,8 @@
 | 511 | — |
 | 512 | — |
 | 513 | — |
-| 514 | — |
-| 515 | — |
+| 514 | ✅ Done (8/19/2025 - SantosMods.dev - DeputyRyan) (Has no direct map)|
+| 515 | ✅ Done (8/19/2025 - SantosMods.dev - DeputyRyan) (Has no direct map)|
 | 516 | — |
 | 517 | — |
 | 518 | — |
