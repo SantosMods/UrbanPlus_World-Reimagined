@@ -12,9 +12,6 @@ Acknowledgments for contributors to **UrbanPlus: World Reimagined**, a SantosMod
 - **[Louies Development](https://links.santosmods.dev/louies-development)**  
   Partner studio contributing regional YMAP development.
 
-- **[Terex Development](https://links.santosmods.dev/terex-development)**  
-  Partner studio contributing regional YMAP development.
-
 ---
 
 ## Core Development Team
