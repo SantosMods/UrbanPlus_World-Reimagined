@@ -26,9 +26,14 @@
     <Item>lr_cs4_roads_long_0.ymap</Item>
     <Item>lr_cs4_roads_strm_1.ymap</Item>
     <Item>lr_cs4_roads_strm_2.ymap</Item>
+    <Item>lr_cs4_12_long_0.ymap</Item>
+    <Item>lr_cs4_12_critical_3.ymap</Item>
+    <Item>lr_cs4_12_critical_4.ymap</Item>
   </YmapFilenames>
   <YtypFilenames />
-  <YbnFilenames />
+  <YbnFilenames>
+    <Item>cs4_12_8.ybn</Item>
+  </YbnFilenames>
   <YndFilenames />
   <YnvFilenames />
   <TrainsFilenames />
