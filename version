@@ -1,4 +1,4 @@
-latest_version=v0.2.8-alpha
+latest_version=v0.3.0-alpha
 release_stage=Open Alpha
-changelog=Cleaned 514, 515, 503 and 540, added trees, benches, food cart, and fixed missing east Joshua Road billboard.
-amount=60
+changelog=Added traffic lights, adjusted nodes, cleaned Lot 1036, prepped for tow yard, and cleared up core Sandy Shores.
+amount=70
