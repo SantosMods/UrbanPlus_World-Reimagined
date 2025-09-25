@@ -2,24 +2,7 @@
 
 [![Repo Size](https://img.shields.io/github/repo-size/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined) [![Issues](https://img.shields.io/github/issues/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined/issues) [![Last Commit](https://img.shields.io/github/last-commit/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined/commits/main) [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)    
 
-> **UrbanPlus** is a modular world overhaul project for FiveM and Story Mode, redefining the landscape, environments, and regional identity of San Andreas.
-
----
-
-## Table of Contents
-
-- Overview
-- Beta Release Status
-- Features
-- Current Content
-- Dependencies
-- Installation
-- Contribution
-- Development Team
-- Support
-- License
-- Changelog
-- Contact
+> **UrbanPlus** is a modular world overhaul project for FiveM and Story Mode, redefining the environments, and regional identity of San Andreas.
 
 ---
 
@@ -31,9 +14,7 @@ The project is under active development, focusing on **map expansions, AI naviga
 
 ---
 
-## Beta Release Status
-
-This release introduces the **first beta version of Story Mode (SP) support**:
+## Release Status
 
 - FiveM – Fully supported  
 - Story Mode – Beta support available in this release  
