@@ -1,9 +1,6 @@
 # UrbanPlus: World Reimagined
 
-[![Repo Size](https://img.shields.io/github/repo-size/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined)  
-[![Issues](https://img.shields.io/github/issues/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined/issues)  
-[![Last Commit](https://img.shields.io/github/last-commit/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined/commits/main)  
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)  
+[![Repo Size](https://img.shields.io/github/repo-size/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined) [![Issues](https://img.shields.io/github/issues/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined/issues) [![Last Commit](https://img.shields.io/github/last-commit/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined/commits/main) [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)    
 
 > **UrbanPlus** is a modular world overhaul project for FiveM and Story Mode, redefining the landscape, environments, and regional identity of San Andreas.
 
