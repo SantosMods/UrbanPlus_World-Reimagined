@@ -73,6 +73,7 @@ Due to its MIT license, **bob74_ipl** is bundled with all UrbanPlus releases.
 ```CFG
 ensure [UrbanPlus]
 ```
+
 ---
 
 ## Contribution
@@ -109,8 +110,6 @@ Please report issues or suggestions via GitHub Issues.
 
 Additional contact:  
 - Website: SantosMods.dev  
-- Email: system@santosmods.dev  
-- Discord: UrbanPlus Discord  
 
 ---
 
