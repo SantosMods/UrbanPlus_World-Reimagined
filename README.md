@@ -1,117 +1,156 @@
-# READ ME IS OUT DATED
-
 # UrbanPlus: World Reimagined
 
-[![Repo Size](https://img.shields.io/github/repo-size/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined) 
-[![Issues](https://img.shields.io/github/issues/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined/issues) 
-[![Last Commit](https://img.shields.io/github/last-commit/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined/commits/main) 
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md) 
+[![Repo Size](https://img.shields.io/github/repo-size/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined)  
+[![Issues](https://img.shields.io/github/issues/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined/issues)  
+[![Last Commit](https://img.shields.io/github/last-commit/SantosMods/UrbanPlus_World-Reimagined)](https://github.com/SantosMods/UrbanPlus_World-Reimagined/commits/main)  
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)  
 
-> **UrbanPlus** is a modular world overhaul project designed for FiveM, redefining the landscape, environments, and regional identity of San Andreas.
+> **UrbanPlus** is a modular world overhaul project for FiveM and Story Mode, redefining the landscape, environments, and regional identity of San Andreas.
 
 ---
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [bob74_ipl Requirement](#bob74_ipl-requirement)
-- [Features](#features)
-- [Installation](#installation)
-- [Contribution](#contribution)
-- [Support](#support)
-- [License](#license)
-- [Changelog](#changelog)
-- [Contact](#contact)
+- Overview
+- Beta Release Status
+- Features
+- Current Content
+- Dependencies
+- Installation
+- Contribution
+- Development Team
+- Support
+- License
+- Changelog
+- Contact
 
 ---
 
 ## Overview
 
-**UrbanPlus: World Reimagined** was officially initiated on **May 22, 2025 at 8:00 PM EST**.
+**UrbanPlus: World Reimagined** was officially initiated on **May 22, 2025 at 8:00 PM EST**.  
 
-This is an early-stage development project with **primary support for FiveM servers**.  
-**Story Mode support is not planned until full release**, though this may be reevaluated as development progresses.
-
-UrbanPlus includes a growing set of environmental changes and YMAP-based expansions across the San Andreas map.
+The project is under active development, focusing on **map expansions, AI navigation improvements, and environmental redesigns**.  
 
 ---
 
-## bob74_ipl Requirement
+## Beta Release Status
 
-UrbanPlus requires **bob74_ipl version 2.4.1**.  
-Download: [bob74_ipl v2.4.1](https://github.com/Bob74/bob74_ipl/releases/tag/2.4.1)
+This release introduces the **first beta version of Story Mode (SP) support**:
 
-> This requirement resolves map holes and world inconsistencies that may occur when updating props or IPL-based assets at scale.
+- FiveM – Fully supported  
+- Story Mode – Beta support available in this release  
 
-Because bob74_ipl is licensed under the [MIT License](https://github.com/Bob74/bob74_ipl/blob/master/LICENSE), it may be redistributed with all UrbanPlus releases for convenience.
+### SP Beta Notes
+
+- Custom YMAPs and AI Nodes now load in Story Mode  
+- Basegame YMAP modifications (prop removal, decluttering) remain non-functional in SP  
+- Additional compatibility updates are planned for future builds  
 
 ---
 
 ## Features
 
-| Feature Type | Description                           | Status        |
-|--------------|---------------------------------------|---------------|
-| YMAPs        | Custom map regions and environments   | In Progress   |
-| Nodes        | AI pathing and navigation behavior    | In Progress   |
-| Scenarios    | World interaction and ambient layout  | Not Planned   |
-| MLOs         | Custom interiors                      | Planned       |
-| Props        | Custom assets and environmental sets  | Planned       |
-| Audio        | Soundscape integration and ambience   | Potential     |
+| Feature Type        | Description                                 | Status        |
+|---------------------|---------------------------------------------|---------------|
+| YMAPs               | Expanded and reimagined map regions         | In Progress   |
+| AI Navigation Nodes | Enhanced pathing and vehicle AI behavior    | In Progress   |
+| MLOs                | Custom interiors                            | Planned       |
+| Props               | Custom assets and environmental sets        | Planned       |
+| Audio               | Soundscape integration and ambience         | Potential     |
+
+---
+
+## Current Content
+
+### Implemented in This Build
+- New regional YMAP expansions  
+- Updated structures and environment layouts  
+- AI navigation node updates  
+- Story Mode beta loading for custom YMAPs and nodes  
+
+### Planned for Future Development
+- Additional region expansions across San Andreas  
+- MLO interior development  
+- Custom prop and asset modeling  
+- Ambient environmental audio  
+- Terrain enhancement and optimization  
+
+---
+
+## Dependencies
+
+UrbanPlus requires **bob74_ipl v2.4.1** for proper prop loading and prevention of map inconsistencies.  
+Due to its MIT license, **bob74_ipl** is bundled with all UrbanPlus releases.  
 
 ---
 
 ## Installation
 
-1. Download and extract the archive.
-2. Locate the folder containing the `fxmanifest.lua` file.
-3. Move that folder into your server’s `resources` directory.
-4. Add the following line to your `server.cfg`:
+1. Download and extract the archive.  
+2. Locate the folder containing the `fxmanifest.lua` file.  
+3. Move that folder into your server’s `resources` directory.  
+4. Add the following line to your server.cfg:  
 
-```lua
+```CFG
 ensure [UrbanPlus]
 ```
-
 ---
 
 ## Contribution
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines.
+See CONTRIBUTING.md for detailed contribution guidelines.  
 
-UrbanPlus welcomes contributors in the following areas:
+UrbanPlus welcomes contributors in the following areas:  
+- YMAP regional mapping  
+- MLO development  
+- Asset modeling  
+- Terrain and environmental design  
 
-- YMAP regional mapping
-- MLO development
-- Asset modeling
-- Terrain and environmental design
+---
+
+## Development Team
+
+### Primary Studio
+- SantosMods.dev — Project Management & Publication  
+
+### Partner Studios
+- JMMods — Regional Mapping (JonJonGamesOfficial)  
+- Louies Development — Regional Mapping (Louie)  
+
+### Core Team
+- DeputyRyan — Project Lead (SantosMods.dev)  
+- JonJonGamesOfficial — Regional Mapping (JMMods)  
+- Louie — Regional Mapping (Louies Development)  
 
 ---
 
 ## Support
 
-Please report issues or suggestions via [GitHub Issues](https://github.com/SantosMods/UrbanPlus_World-Reimagined/issues).
+Please report issues or suggestions via GitHub Issues.  
 
-Additional contact:
-
-- Website: [SantosMods.dev](https://santosmods.dev)  
+Additional contact:  
+- Website: SantosMods.dev  
 - Email: system@santosmods.dev  
-- Discord: [UrbanPlus Discord](https://discord.gg/jvchRsD3C5)
+- Discord: UrbanPlus Discord  
 
 ---
 
 ## License
 
-This project is licensed under a custom non-commercial license.  
-See [LICENSE](LICENSE) for full terms and permitted usage.
+UrbanPlus is protected under a **custom non-commercial license**.  
+Full terms are provided in the included LICENSE file.  
+
+Unauthorized redistribution, modification, repackaging, or monetization is strictly prohibited.  
 
 ---
 
 ## Changelog
 
-Release notes and version history are tracked under [Releases](https://github.com/SantosMods/UrbanPlus_World-Reimagined/releases).
+Release notes and version history are tracked under GitHub Releases.  
 
 ---
 
 ## Contact
 
-Built and maintained by [SantosMods.dev](https://santosmods.dev)  
-Repository: [UrbanPlus GitHub](https://github.com/SantosMods/UrbanPlus_World-Reimagined)
+Built and maintained by SantosMods.dev  
