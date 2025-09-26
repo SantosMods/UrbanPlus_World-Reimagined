@@ -16,6 +16,7 @@
     <Item>lr_cs4_06_strm_2.ymap</Item>
     <Item>lr_cs4_09_strm_0.ymap</Item>
     <Item>lr_cs4_09_strm_1.ymap</Item>
+    <Item>lr_cs4_10_strm_0.ymap</Item>
     <Item>lr_cs4_10_strm_2.ymap</Item>
     <Item>lr_cs4_10_strm_3.ymap</Item>
     <Item>lr_cs4_12_critical_3.ymap</Item>
@@ -34,7 +35,9 @@
     <Item>lr_sc1_11_strm_2.ymap</Item>
     <Item>lr_sc1_rd_long_0.ymap</Item>
     <Item>lr_sc1_rd_strm_2.ymap</Item>
-    <Item>lr_cs4_10_strm_0.ymap</Item>
+    <Item>apa_bt1_01_strm_0.ymap</Item>
+    <Item>apa_ss1_rd1_strm_0.ymap</Item>
+    <Item>apa_bt1_02_strm_0.ymap</Item>
   </YmapFilenames>
   <YtypFilenames />
   <YbnFilenames>
