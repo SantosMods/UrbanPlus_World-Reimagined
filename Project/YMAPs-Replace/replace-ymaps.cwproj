@@ -2,8 +2,11 @@
   <Name>New CodeWalker Project</Name>
   <Version value="1" />
   <YmapFilenames>
+    <Item>apa_bt1_01_strm_0.ymap</Item>
+    <Item>apa_bt1_02_strm_0.ymap</Item>
     <Item>apa_ss1_08_strm_0.ymap</Item>
     <Item>apa_ss1_09_strm_0.ymap</Item>
+    <Item>apa_ss1_rd1_strm_0.ymap</Item>
     <Item>hei_cs2_01_long_0.ymap</Item>
     <Item>hei_cs2_01_strm_1.ymap</Item>
     <Item>hei_cs2_01_strm_2.ymap</Item>
@@ -35,14 +38,13 @@
     <Item>lr_sc1_11_strm_2.ymap</Item>
     <Item>lr_sc1_rd_long_0.ymap</Item>
     <Item>lr_sc1_rd_strm_2.ymap</Item>
-    <Item>apa_bt1_01_strm_0.ymap</Item>
-    <Item>apa_ss1_rd1_strm_0.ymap</Item>
-    <Item>apa_bt1_02_strm_0.ymap</Item>
+    <Item>lr_cs4_roads_strm_0.ymap</Item>
+    <Item>lr_cs4_roads_critical_1.ymap</Item>
+    <Item>map1.ymap</Item>
+    <Item>lr_cs4_09_long_0.ymap</Item>
   </YmapFilenames>
   <YtypFilenames />
-  <YbnFilenames>
-    <Item>cs4_12_8.ybn</Item>
-  </YbnFilenames>
+  <YbnFilenames />
   <YndFilenames />
   <YnvFilenames />
   <TrainsFilenames />
