@@ -101,20 +101,20 @@
 | 93 | — |
 | 94 | — |
 | 95 | — |
-| 96 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
-| 97 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
-| 98 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
-| 99 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
-| 101 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
-| 102 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
-| 103 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
-| 104 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
-| 105 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
-| 106 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
-| 107 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
-| 108 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
-| 109 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
-| 110 | Assigned To [JMMods](https://discord.gg/N9KgZx4KUn) [Not Done]| |
+| 96 | — |
+| 97 | — |
+| 98 | — |
+| 99 | — |
+| 101 | — |
+| 102 | — |
+| 103 | — |
+| 104 | — |
+| 105 | — |
+| 106 | — |
+| 107 | — |
+| 108 | — |
+| 109 | — |
+| 110 | — |
 | 111 | — |
 | 112 | — |
 | 113 | — |
@@ -772,7 +772,7 @@
 | 961 | — |
 | 962 | — |
 | 963 | — |
-| 1001 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 1001 | — |
 | 1002 | ✅ Done (6/16/2025 - [Louies Development](https://discord.gg/7AaHPNT7Bh) L̷̊̏ǒ̷͝ü̸̆i̸͑̆e̸)|
 | 1003 | ✅ Done (6/16/2025 - [Louies Development](https://discord.gg/7AaHPNT7Bh) L̷̊̏ǒ̷͝ü̸̆i̸͑̆e̸)|
 | 1004 | ✅ Done (6/16/2025 - [Louies Development](https://discord.gg/7AaHPNT7Bh) L̷̊̏ǒ̷͝ü̸̆i̸͑̆e̸)|
@@ -799,7 +799,7 @@
 | 1025 | — |
 | 1026 | — |
 | 1027 | — |
-| 1028 | — |
+| 1028 | ✅ Done (10/13/2025 - SantosMods.dev - DeputyRyan) (Has no direct map)|
 | 1029 | — |
 | 1030 | — |
 | 1031 | — |
