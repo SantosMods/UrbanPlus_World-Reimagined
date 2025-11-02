@@ -10,8 +10,8 @@
 
 | Addon Or Extra |Exra Name | File Name | Status |
 |----------------|----------|-----------|--------|
-| Extra | Sandy Shores Traffic Lights | extra.sandy.trafficlights | ⚙️ In Development - SantosMods.dev - DeputyRyan |
-| Addon | Mount Chiliad Portaloos | addon.mount-chiliad-portaloos | ✅ Done (5/25/2025, 3:01am EST - SantosMods.dev - DeputyRyan)
+| Extra | Sandy Shores Traffic Lights | extra.sandy.trafficlights | ✅ Done (11/2/2025, 1:03am EST - SantosMods.dev - DeputyRyan) |
+| Addon | Mount Chiliad Portaloos | addon.mount-chiliad-portaloos | ✅ Done (5/25/2025, 3:01am EST - SantosMods.dev - DeputyRyan) |
 ---
 
 ## Postal Registry
