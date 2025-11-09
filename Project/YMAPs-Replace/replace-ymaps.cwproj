@@ -7,6 +7,11 @@
     <Item>apa_ss1_08_strm_0.ymap</Item>
     <Item>apa_ss1_09_strm_0.ymap</Item>
     <Item>apa_ss1_rd1_strm_0.ymap</Item>
+    <Item>cs4_09_long_0.ymap</Item>
+    <Item>cs4_10_strm_0.ymap</Item>
+    <Item>cs4_roads_critical_1.ymap</Item>
+    <Item>cs4_roads_strm_0.ymap</Item>
+    <Item>hei_ch1_04b_strm_1.ymap</Item>
     <Item>hei_cs2_01_long_0.ymap</Item>
     <Item>hei_cs2_01_strm_1.ymap</Item>
     <Item>hei_cs2_01_strm_2.ymap</Item>
@@ -41,11 +46,12 @@
     <Item>lr_sc1_11_strm_2.ymap</Item>
     <Item>lr_sc1_rd_long_0.ymap</Item>
     <Item>lr_sc1_rd_strm_2.ymap</Item>
-    <Item>cs4_10_strm_0.ymap</Item>
-    <Item>cs4_roads_strm_0.ymap</Item>
-    <Item>cs4_09_strm_1.ymap</Item>
-    <Item>cs4_roads_critical_1.ymap</Item>
-    <Item>cs4_09_long_0.ymap</Item>
+    <Item>sc1_rd_strm_7.ymap</Item>
+    <Item>sc1_27_strm_1.ymap</Item>
+    <Item>sc1_rd_strm_8.ymap</Item>
+    <Item>sc1_27_strm_0.ymap</Item>
+    <Item>sc1_27_long_0.ymap</Item>
+    <Item>sc1_rd_strm_0.ymap</Item>
   </YmapFilenames>
   <YtypFilenames />
   <YbnFilenames />
