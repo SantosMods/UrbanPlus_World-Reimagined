@@ -1,0 +1,31 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>sc1\sc1_27_long_0.ymap</Item>
+    <Item>sc1\sc1_27_strm_0.ymap</Item>
+    <Item>sc1\sc1_rd_strm_8.ymap</Item>
+    <Item>sc1\sc1_27_strm_1.ymap</Item>
+    <Item>sc1\sc1_rd_strm_7.ymap</Item>
+    <Item>lr\lr_sc1_rd_strm_2.ymap</Item>
+    <Item>lr\lr_sc1_rd_long_0.ymap</Item>
+    <Item>lr\lr_sc1_11_strm_2.ymap</Item>
+    <Item>lr\lr_sc1_11_strm_0.ymap</Item>
+    <Item>lr\lr_sc1_11_long_0.ymap</Item>
+    <Item>sc1_rd_strm_0.ymap</Item>
+    <Item>sc1_21_strm_1.ymap</Item>
+    <Item>sc1_rd_long_1.ymap</Item>
+    <Item>sc1_21_strm_0.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
