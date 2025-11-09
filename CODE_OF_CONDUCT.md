@@ -65,7 +65,7 @@ Violations may result in:
 
 To report a violation or concern, contact:
 
-- Email: [system@santosmods.dev](mailto:system@santosmods.dev)  
+- Email: [santosmodsdev@gmail.com](mailto:santosmodsdev@gmail.com)  
 - Discord: [UrbanPlus Discord](https://links.santosmods.dev/discord)
 
 Reports will be reviewed confidentially and addressed in accordance with this Code and our License Agreement.
