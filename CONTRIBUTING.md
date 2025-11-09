@@ -29,7 +29,7 @@ UrbanPlus is actively seeking volunteer developers, designers, and contributors 
 Whether you're skilled in YMAP design, scenario placement, node systems, or just eager to collaborate on world-building, we welcome your participation.
 
 Join our community on Discord to get involved:  
-[https://discord.gg/jvchRsD3C5](https://discord.gg/jvchRsD3C5)
+[https://links.santosmods.dev/discord](https://links.santosmods.dev/discord)
 
 ---
 
