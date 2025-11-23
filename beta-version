@@ -1,3 +1,10 @@
 latest_version=0.5.0-alpha
 release_stage=alpha
 changelog=General improvements and restructuring
+amount=512
+
+pkg_apa=0.4.0-alpha
+pkg_cs4=0.4.0-alpha
+pkg_hei=0.4.0-alpha
+pkg_lr=0.4.0-alpha
+pkg_sc1=0.3.0-alpha
