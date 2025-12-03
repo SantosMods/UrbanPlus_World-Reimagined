@@ -13,7 +13,7 @@ Your support helps cover the time, tools, and resources necessary to maintain an
 ### Donate to the devs!
 
 You can contribute directly to any Developer you want!:
-- DeputyRyan: https://cash.app/$DeputyRyan322
+- DeputyRyan: https://venmo.com/u/DeputyRyan
 - JonJonGamesOffical: https://www.paypal.com/paypalme/JonJonGamesYT
 - Louie: https://www.paypal.com/paypalme/louiedevelopment
 - Aiden Jackson: https://paypal.me/AJacksondonations?country.x=CA&locale.x=en_US
