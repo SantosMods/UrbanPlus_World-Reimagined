@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Effective Date: 09/05/2025  
+Effective Date: 12/7/2025  
 Maintainer: SantosMods.dev
 
 ---
@@ -66,7 +66,7 @@ Violations may result in:
 To report a violation or concern, contact:
 
 - Email: [santosmodsdev@gmail.com](mailto:santosmodsdev@gmail.com)  
-- Discord: [UrbanPlus Discord](https://links.santosmods.dev/discord)
+- Discord: [SantosMods.dev Discord](https://links.santosmods.dev/discord)
 
 Reports will be reviewed confidentially and addressed in accordance with this Code and our License Agreement.
 
