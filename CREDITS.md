@@ -6,9 +6,6 @@ Acknowledgments for contributors to **UrbanPlus: World Reimagined**, a SantosMod
 - **[SantosMods.dev](https://santosmods.dev)**  
   Primary studio overseeing project design, planning, and publication.
 
-- **[JMMods](https://links.santosmods.dev/jmmods)**  
-  Partner studio contributing regional YMAP development.
-
 - **[Louies Development](https://links.santosmods.dev/louies-development)**  
   Partner studio contributing regional YMAP development.
 
@@ -19,7 +16,6 @@ Acknowledgments for contributors to **UrbanPlus: World Reimagined**, a SantosMod
 - **DeputyRyan** — Project Lead & Founder of SantosMods.dev
 
 ### Regional Mapping
-- **JonJonGamesOfficial** — YMAP Developer & Owner of JMMods
 - **Louie** - Map/YMAP Developer & Owner of Louies Development
 - **Nick** - Map/YMAP Developer & Owner of Terex Development
 ---
@@ -31,4 +27,4 @@ Acknowledgments for contributors to **UrbanPlus: World Reimagined**, a SantosMod
 
 ## Notes
 - Roles and contributions are listed based on current project scope.
-- For business inquiries or to join development, contact via [SantosMods.dev](https://santosmods.dev).
+- For business inquiries or to join development, contact via [SantosMods.dev](https://store.santosmods.dev).
