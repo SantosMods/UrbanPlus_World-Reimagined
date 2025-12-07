@@ -14,9 +14,7 @@ Your support helps cover the time, tools, and resources necessary to maintain an
 
 You can contribute directly to any Developer you want!:
 - DeputyRyan: https://venmo.com/u/DeputyRyan
-- JonJonGamesOffical: https://www.paypal.com/paypalme/JonJonGamesYT
 - Louie: https://www.paypal.com/paypalme/louiedevelopment
-- Aiden Jackson: https://paypal.me/AJacksondonations?country.x=CA&locale.x=en_US
   
 Even small contributions make a difference and are greatly appreciated.
 
