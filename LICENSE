@@ -1,77 +1,118 @@
 UrbanPlus: World Reimagined – License Agreement
-Version: 5.0
-Effective Date: 12/3/2025 (MM:DD:YY)
+Version: 6.0
+Effective Date: 12/03/2025 (MM/DD/YYYY)
 
-This project (“Work”) is the exclusive property of SantosMods.dev. All rights are reserved unless allowed under this License.
+----------------------------------------------------------------
 
-“Work” includes all files, models, maps, YMAPs, assets, scripts, textures, metadata, configuration files, and any generated or packaged content provided with UrbanPlus: World Reimagined, unless explicitly stated otherwise.
+SUMMARY (Plain English)
 
-This License replaces all older versions and applies to all releases, updates, and components of UrbanPlus: World Reimagined.
+You can use UrbanPlus on your FiveM server.
+You can modify it for your server.
+You can share it for FREE.
 
-1. WHAT YOU CAN DO
+You CANNOT sell it, monetize it, or reuse its assets elsewhere
+without permission.
 
-You may:
-• Use this Work on any FiveM server, public or private.
-• Modify it for personal use or server use.
-• Share the original or modified versions if:
-  • You do not charge for it unless you have permission (see Section 2).
-  • You include this License Agreement in full.
-  • You do not claim authorship or ownership of the Work.
+If you break these rules, you lose permission to use it.
 
-Renaming the Work is permitted.
+----------------------------------------------------------------
 
-Modified versions must clearly state they are unofficial through filename, config, or metadata.
+1. OWNERSHIP
 
-Non-commercial modpacks and mirrors are allowed under the same rules.
+UrbanPlus: World Reimagined ("the Work") is owned by SantosMods.dev.
 
-2. PAID ACCESS OR COMMERCIAL USE
+This includes:
+- Maps and YMAPs
+- Models and assets
+- Scripts and code
+- Textures
+- Configuration files
+- Metadata and documentation
 
-You may not sell, monetize, or provide paid access to this Work unless you receive written permission in advance.
+This license does NOT transfer ownership to you.
+All rights not clearly given here are reserved.
 
-Permission requests can be sent through:
+2. WHAT YOU ARE ALLOWED TO DO
+
+You MAY:
+
+- Use the Work on any FiveM server (public or private)
+- Modify the Work for:
+  - Personal use
+  - Development
+  - Server-side use
+- Rename the Work
+- Share the original or modified Work for FREE if:
+  - This license is included in full
+  - You do NOT claim ownership or authorship
+  - Modified versions are clearly marked as "Unofficial"
+- Include the Work in non-commercial modpacks or mirrors
+
+3. COMMERCIAL USE (IMPORTANT)
+
+You MAY NOT, without written permission from SantosMods.dev:
+
+- Sell the Work
+- Charge money for access to the Work
+- Lock the Work behind:
+  - Donations
+  - Subscriptions
+  - Paywalls
+  - Paid perks
+- Use the Work to promote paid products or services
+
+To request permission:
 Email: santosmodsdev@gmail.com
 Discord: https://links.santosmods.dev/discord
 
-3. WHAT YOU CANNOT DO
+4. WHAT YOU ARE NOT ALLOWED TO DO
 
-Without permission, you may not:
-• Sell, license, or monetize the Work.
-• Gate the Work behind donations, subscriptions, or paid perks.
-• Distribute the Work privately through locked or restricted links.
-• Claim the Work or its assets as your own.
-• Extract and reuse assets, models, or code in unrelated projects.
+You MAY NOT:
 
-4. SUPPORT
+- Privately distribute the Work using locked or invite-only links
+- Reupload the Work as your own
+- Remove copyright notices
+- Extract or reuse assets, models, maps, or code
+  in other or unrelated projects
+- Rebrand the Work as an original creation
 
-SantosMods.dev provides support to legitimate users. A legitimate user is anyone who complies fully with this License. Violating the License voids eligibility for support.
+5. SUPPORT
 
-5. ENFORCEMENT
+Support is provided ONLY to users who follow this license.
 
-If you violate this License, SantosMods.dev may take action including:
-• File takedowns
-• DMCA claims
-• Legal action under applicable laws
+If you violate any part of this license:
+- You lose access to support
+- You lose permission to use the Work
 
-6. WARRANTY
+6. ENFORCEMENT
 
-This Work is provided “as is,” without any guarantees.
+If this license is violated, SantosMods.dev may:
 
-SantosMods.dev will attempt to resolve issues that are reported to us and originate from the unmodified, official release.
+- Request content takedowns
+- Issue DMCA notices
+- Take legal action where applicable
 
-We are not responsible for problems caused by:
-• Modifying the Work
-• Misuse of the Work
-• Failing to report issues
-• Unauthorized redistribution or alterations
+Your license automatically ends if you violate these terms.
 
-Responsibility applies only to the official, unmodified version of the Work.
+7. WARRANTY
 
-7. ACCEPTANCE
+This Work is provided "AS IS".
 
-By downloading, using, modifying, or sharing the Work, you agree to all terms in this License.
+SantosMods.dev is NOT responsible for issues caused by:
+- Modifications
+- Misuse
+- Server incompatibilities
+- Unauthorized redistribution
 
-8. CONTACT
+Only the official, unmodified release is supported.
 
-For support, permission, or licensing inquiries:
-santosmodsdev@gmail.com
-https://links.santosmods.dev/discord
+8. ACCEPTANCE
+
+By downloading, using, modifying, or sharing this Work,
+you agree to all terms in this license.
+
+9. CONTACT
+
+SantosMods.dev
+Email: santosmodsdev@gmail.com
+Discord: https://links.santosmods.dev/discord
