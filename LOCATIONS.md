@@ -341,7 +341,7 @@
 | 407 | — |
 | 408 | — |
 | 409 | — |
-| 410 | — |
+| 410 | ✅ Done (1/19/2026 - SantosMods.dev - DeputyRyan) |
 | 411 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
 | 412 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
 | 413 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
@@ -385,7 +385,7 @@
 | 500 | — |
 | 501 | — |
 | 502 | — |
-| 503 | ✅ Done (8/19/2025 - SantosMods.dev - DeputyRyan) (Has no direct map)||
+| 503 | — |
 | 504 | — |
 | 505 | — |
 | 506 | — |
@@ -396,8 +396,8 @@
 | 511 | — |
 | 512 | — |
 | 513 | — |
-| 514 | ✅ Done (8/19/2025 - SantosMods.dev - DeputyRyan) (Has no direct map)|
-| 515 | ✅ Done (8/19/2025 - SantosMods.dev - DeputyRyan) (Has no direct map)|
+| 514 | — |
+| 515 | — |
 | 516 | — |
 | 517 | — |
 | 518 | — |
@@ -799,7 +799,7 @@
 | 1025 | — |
 | 1026 | — |
 | 1027 | — |
-| 1028 | ✅ Done (10/13/2025 - SantosMods.dev - DeputyRyan) (Has no direct map)|
+| 1028 | — |
 | 1029 | — |
 | 1030 | — |
 | 1031 | — |
