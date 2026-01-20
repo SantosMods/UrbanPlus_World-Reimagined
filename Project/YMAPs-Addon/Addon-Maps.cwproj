@@ -5,26 +5,7 @@
     <Item>123.ymap</Item>
     <Item>357.ymap</Item>
     <Item>540.ymap</Item>
-    <Item>703.ymap</Item>
-    <Item>949.ymap</Item>
-    <Item>1002.ymap</Item>
-    <Item>1003.ymap</Item>
-    <Item>1004.ymap</Item>
-    <Item>1005.ymap</Item>
-    <Item>1006.ymap</Item>
-    <Item>1007.ymap</Item>
-    <Item>1008.ymap</Item>
-    <Item>1020.ymap</Item>
-    <Item>1023.ymap</Item>
-    <Item>1033.ymap</Item>
-    <Item>1036.ymap</Item>
-    <Item>1040.ymap</Item>
-    <Item>1052.ymap</Item>
-    <Item>1053.ymap</Item>
-    <Item>2001.ymap</Item>
-    <Item>2015.ymap</Item>
-    <Item>addon.mount-chiliad-portaloos.ymap</Item>
-    <Item>extra.sandy.trafficlights.ymap</Item>
+    <Item>map1.ymap</Item>
   </YmapFilenames>
   <YtypFilenames />
   <YbnFilenames />
