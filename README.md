@@ -5,12 +5,13 @@ The project was officially initiated on **May 22, 2025**, and is under **active 
 
 ---
 
-## Beta Release Status
+## Alpha Release Status
 
 This update introduces the **first beta release of Story Mode (SP) support**:
 
 - **FiveM** — Fully Supported  
 - **Story Mode** — Fully Supported  
+- **RageMP** — Fully Supported  
 
 ---
 
