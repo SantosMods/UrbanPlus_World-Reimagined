@@ -1,16 +1,15 @@
 > **Total Postals:** 865  
-> **Total Extras:** 1  
-> **Total Addons:** 1  
-> **Managed by:** [SantosMods.dev](https://santosmods.dev)  
+> **Total Addons:** 2  
+> **Managed by:** [SantosMods.dev](https://store.santosmods.dev/)  
 > **Purpose:** Internal spatial reference for mapping, YMAP placement, and world routing.
 
 ---
 
 ## Extra/Addon Registry
 
-| Addon Or Extra |Exra Name | File Name | Status |
+| Addon |Exra Name | File Name | Status |
 |----------------|----------|-----------|--------|
-| Extra | Sandy Shores Traffic Lights | extra.sandy.trafficlights | ✅ Done (11/2/2025 - SantosMods.dev - DeputyRyan) |
+| Addon | Sandy Shores Traffic Lights | addon.sandy.trafficlights | ✅ Done (11/2/2025 - SantosMods.dev - DeputyRyan) |
 | Addon | Mount Chiliad Portaloos | addon.mount-chiliad-portaloos | ✅ Done (5/25/2025 - SantosMods.dev - DeputyRyan) |
 ---
 

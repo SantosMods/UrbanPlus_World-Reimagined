@@ -1,30 +1,32 @@
 <CodeWalkerProject>
-  <Name>New CodeWalker Project</Name>
+  <Name>UrbanPlus</Name>
   <Version value="1" />
   <YmapFilenames>
-    <Item>ymaps-addon\123.ymap</Item>
-    <Item>ymaps-addon\357.ymap</Item>
-    <Item>ymaps-addon\540.ymap</Item>
-    <Item>ymaps-addon\703.ymap</Item>
-    <Item>ymaps-addon\949.ymap</Item>
-    <Item>ymaps-addon\1002.ymap</Item>
-    <Item>ymaps-addon\1003.ymap</Item>
-    <Item>ymaps-addon\1004.ymap</Item>
-    <Item>ymaps-addon\1005.ymap</Item>
-    <Item>ymaps-addon\1006.ymap</Item>
-    <Item>ymaps-addon\1007.ymap</Item>
-    <Item>ymaps-addon\1008.ymap</Item>
-    <Item>ymaps-addon\1020.ymap</Item>
-    <Item>ymaps-addon\1023.ymap</Item>
-    <Item>ymaps-addon\1033.ymap</Item>
-    <Item>ymaps-addon\1036.ymap</Item>
-    <Item>ymaps-addon\1040.ymap</Item>
-    <Item>ymaps-addon\1052.ymap</Item>
-    <Item>ymaps-addon\1053.ymap</Item>
-    <Item>ymaps-addon\2001.ymap</Item>
-    <Item>ymaps-addon\2015.ymap</Item>
-    <Item>ymaps-addon\addon.mount-chiliad-portaloos.ymap</Item>
-    <Item>ymaps-addon\extra.sandy.trafficlights.ymap</Item>
+    <Item>ymaps-addon\addons\addon.mount-chiliad-portaloos.ymap</Item>
+    <Item>ymaps-addon\addons\addon.sandy.trafficlights.ymap</Item>
+    <Item>ymaps-addon\central county\949.ymap</Item>
+    <Item>ymaps-addon\central county\1002.ymap</Item>
+    <Item>ymaps-addon\central county\1003.ymap</Item>
+    <Item>ymaps-addon\central county\1004.ymap</Item>
+    <Item>ymaps-addon\central county\1005.ymap</Item>
+    <Item>ymaps-addon\central county\1006.ymap</Item>
+    <Item>ymaps-addon\central county\1007.ymap</Item>
+    <Item>ymaps-addon\central county\1008.ymap</Item>
+    <Item>ymaps-addon\central county\1020.ymap</Item>
+    <Item>ymaps-addon\central county\1023.ymap</Item>
+    <Item>ymaps-addon\central county\1033.ymap</Item>
+    <Item>ymaps-addon\central county\1036.ymap</Item>
+    <Item>ymaps-addon\central county\1040.ymap</Item>
+    <Item>ymaps-addon\central county\1052.ymap</Item>
+    <Item>ymaps-addon\central county\1053.ymap</Item>
+    <Item>ymaps-addon\central county\2001.ymap</Item>
+    <Item>ymaps-addon\central county\2015.ymap</Item>
+    <Item>ymaps-addon\los santos\123.ymap</Item>
+    <Item>ymaps-addon\los santos\357.ymap</Item>
+    <Item>ymaps-addon\los santos\400.ymap</Item>
+    <Item>ymaps-addon\los santos\540.ymap</Item>
+    <Item>ymaps-addon\los santos\596.ymap</Item>
+    <Item>ymaps-addon\los santos\703.ymap</Item>
   </YmapFilenames>
   <YtypFilenames />
   <YbnFilenames />
