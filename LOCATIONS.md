@@ -781,7 +781,7 @@
 | 1008 | ✅ Done (6/16/2025 - [Louies Development](https://discord.gg/7AaHPNT7Bh) L̷̊̏ǒ̷͝ü̸̆i̸͑̆e̸)|
 | 1009 | — |
 | 1010 | — |
-| 1011 | — |
+| 1011 | ✅ Done (1/20/2026 - SantosMods.dev - DeputyRyan)|
 | 1012 | — |
 | 1013 | — |
 | 1014 | — |
@@ -825,8 +825,8 @@
 | 1052 | ✅ Done (7/6/2025 - SantosMods.dev - Aiden Jackson)|
 | 1053 | ✅ Done (7/6/2025 - SantosMods.dev - Aiden Jackson)|
 | 2001 | ✅ Done (7/27/2025 - SantosMods.dev - DeputyRyan)|
-| 2002 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 2003 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
+| 2002 | ✅ Done (1/20/2025 - SantosMods.dev - DeputyRyan)|
+| 2003 | ✅ Done (1/20/2025 - SantosMods.dev - DeputyRyan)|
 | 2004 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
 | 2005 | — |
 | 2006 | — |
