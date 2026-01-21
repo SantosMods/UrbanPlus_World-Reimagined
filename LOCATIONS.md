@@ -10,8 +10,8 @@
 
 | Addon Or Extra |Exra Name | File Name | Status |
 |----------------|----------|-----------|--------|
-| Extra | Sandy Shores Traffic Lights | extra.sandy.trafficlights | ✅ Done (11/2/2025, 1:03am EST - SantosMods.dev - DeputyRyan) |
-| Addon | Mount Chiliad Portaloos | addon.mount-chiliad-portaloos | ✅ Done (5/25/2025, 3:01am EST - SantosMods.dev - DeputyRyan) |
+| Extra | Sandy Shores Traffic Lights | extra.sandy.trafficlights | ✅ Done (11/2/2025 - SantosMods.dev - DeputyRyan) |
+| Addon | Mount Chiliad Portaloos | addon.mount-chiliad-portaloos | ✅ Done (5/25/2025 - SantosMods.dev - DeputyRyan) |
 ---
 
 ## Postal Registry
@@ -342,30 +342,30 @@
 | 408 | — |
 | 409 | — |
 | 410 | ✅ Done (1/19/2026 - SantosMods.dev - DeputyRyan) |
-| 411 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 412 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 413 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 414 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 415 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 416 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 417 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 418 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 419 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 420 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 421 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 422 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 423 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 424 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 425 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 426 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 427 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 428 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 429 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 430 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 431 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 432 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 433 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
-| 434 | Assigned To [SantosMods.dev](https://santosmods.dev) [Not Done]|
+| 411 | — |
+| 412 | — |
+| 413 | — |
+| 414 | — |
+| 415 | — |
+| 416 | — |
+| 417 | — |
+| 418 | — |
+| 419 | — |
+| 420 | — |
+| 421 | — |
+| 422 | — |
+| 423 | — |
+| 424 | — |
+| 425 | — |
+| 426 | — |
+| 427 | — |
+| 428 | — |
+| 429 | — |
+| 430 | — |
+| 431 | — |
+| 432 | — |
+| 433 | — |
+| 434 | — |
 | 435 | — |
 | 436 | — |
 | 437 | — |
@@ -852,16 +852,16 @@
 | 2025 | — |
 | 2026 | — |
 | 2027 | — |
-| 3001 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
-| 3002 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
-| 3003 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
-| 3004 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
-| 3005 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
-| 3006 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
-| 3007 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
-| 3008 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
-| 3009 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
-| 3010 | Assigned To [Louies Development](https://discord.gg/7AaHPNT7Bh) [Not Done]|
+| 3001 | — |
+| 3002 | — |
+| 3003 | — |
+| 3004 | — |
+| 3005 | — |
+| 3006 | — |
+| 3007 | — |
+| 3008 | — |
+| 3009 | — |
+| 3010 | — |
 | 3011 | — |
 | 3012 | — |
 | 3013 | — |
