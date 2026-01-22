@@ -47,22 +47,6 @@ Due to its MIT license, **bob74_ipl** is bundled with all UrbanPlus releases.
 
 ---
 
-## Development Team
-
-**Primary Studio**  
-- [SantosMods.dev](https://store.santosmods.dev/) — Project Management & Publication  
-
-**Partner Studios**  
-- [JMMods](https://links.santosmods.dev/jmmods) — Regional Mapping (JonJonGamesOfficial)   
-- [Louies Development](https://links.santosmods.dev/louies-development) — Regional Mapping (Louie)  
-
-**Core Team**  
-- **DeputyRyan** — Project Lead (SantosMods.dev)  
-- **JonJonGamesOfficial** — Regional Mapping (JMMods) (Retired)
-- **Louie** — Regional Mapping (Louies Development)  
-
----
-
 ## Support & Contact
 
 - Website: [UrbanPlus.dev](https://urbanplus.dev/)  
