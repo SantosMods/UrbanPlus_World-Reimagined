@@ -1,63 +1,79 @@
-## UrbanPlus: World Reimagined
+## Volunteer Collaboration Notice
 
-**UrbanPlus** is a **World Overhaul Project** developed by **SantosMods.dev**, redefining the landscape, street life, and environmental identity of San Andreas through **modular, region-based design**.  
-The project was officially initiated on **May 22, 2025**, and is under **active development** with ongoing map expansions, AI navigation improvements, and environmental redesigns.  
+UrbanPlus World Reimagined is actively inviting **serious volunteer contributors** including **development studios, modding teams, and independent creators** to participate in the expansion and refinement of a large scale world overhaul project.
 
----
+This initiative is **strictly non commercial** and built on structured collaboration.  
+All approved contributors will receive **formal credit** for their work.
 
-## Alpha Release Status
-
-This update introduces the **first beta release of Story Mode (SP) support**:
-
-- **FiveM** — Fully Supported  
-- **Story Mode** — Fully Supported  
-- **RageMP** — Fully Supported  
+Participation is expected to meet professional standards. Experimental or low quality submissions will not be accepted.
 
 ---
 
-## Core Features
+## UrbanPlus World Reimagined
 
-- **Custom YMAPs** — Expanded and reimagined map regions  
-- **AI Navigation Nodes** — Enhanced pathing and vehicle AI behavior  
-- **Geographic Enhancements** — Environmental and terrain updates  
-- **Modular Expansion** — Future MLOs, custom props, and ambient audio planned  
+**UrbanPlus** is a comprehensive **world transformation project** developed by **SantosMods.dev**, focused on redefining the environmental identity of San Andreas through **modular region based development**.
+
+The project launched on **May 22 2025** and remains under **active structured development**, with continued focus on map expansion, environmental realism, and AI navigation accuracy.
+
+UrbanPlus is designed for long term scalability and clean integration across multiplayer and single player environments.
 
 ---
 
-## Current Content
+## Release Status
 
-**Implemented in This Build**
-- New regional YMAP expansions  
-- Updated structures and environment layouts  
-- AI navigation node updates  
+This build introduces the **first public alpha with full Story Mode compatibility**.
 
-**Planned for Future Development**
-- Additional region expansions across San Andreas  
-- MLO interior development  
-- Custom prop and asset modeling  
-- Ambient environmental audio  
-- Terrain enhancement and optimization  
+- **FiveM** Fully Supported  
+- **Story Mode** Fully Supported  
+- **RageMP** Fully Supported  
+
+---
+
+## Core Capabilities
+
+- **Custom YMAP Development** with reworked and expanded regions  
+- **Advanced AI Navigation Nodes** improving traffic flow and path logic  
+- **Environmental Reconstruction** including layout and terrain adjustments  
+- **Modular Architecture** allowing controlled future expansion  
+
+---
+
+## Current Implementation
+
+### Included in This Build
+- Newly developed regional YMAP expansions  
+- Rebuilt structures and environmental layouts  
+- Updated AI navigation and traffic nodes  
+
+### Planned Development
+- Additional regional expansions across San Andreas  
+- Interior MLO development  
+- Custom props and asset creation  
+- Ambient environmental audio systems  
+- Terrain refinement and performance optimization  
 
 ---
 
 ## Dependencies
 
-UrbanPlus requires **bob74_ipl v2.4.1** for proper prop loading and prevention of map inconsistencies.  
-Due to its MIT license, **bob74_ipl** is bundled with all UrbanPlus releases.  
+UrbanPlus requires **bob74_ipl v2.4.1** for proper prop handling and world stability.
+
+Due to its MIT license, bob74_ipl is bundled with all official UrbanPlus releases to ensure consistent behavior and prevent map conflicts.
 
 ---
 
-## Support & Contact
+## Support and Contact
 
-- Website: [UrbanPlus.dev](https://urbanplus.dev/)  
-- Discord: [SantosMods.dev Discord](https://links.santosmods.dev/discord)  
-- GitHub: [UrbanPlus Repository](https://github.com/SantosMods/UrbanPlus_World-Reimagined)  
+- Website: https://urbanplus.dev  
+- Discord: https://links.santosmods.dev/discord  
+- GitHub: https://github.com/SantosMods/UrbanPlus_World-Reimagined  
 
 ---
 
 ## License
 
-UrbanPlus is protected under a **custom non-commercial license**.  
-Full terms are provided in the included LICENSE file.  
+UrbanPlus operates under a **custom non commercial license**.
 
-**Unauthorized redistribution, modification, repackaging, or monetization is strictly prohibited.**
+Unauthorized redistribution, modification, repackaging, mirroring, or monetization is strictly prohibited.
+
+Full license terms are provided in the included LICENSE file.
