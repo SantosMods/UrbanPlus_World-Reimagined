@@ -14,7 +14,7 @@
 
 | Studio | Role | Representative | Link |
 |-------|------|----------------|------|
-| — | — | — | — |
+| Louie's Development | Development Partner | the.louie | [Discord](https://links.santosmods.dev/louies-development) |
 
 ---
 
@@ -22,7 +22,7 @@
 
 | Studio | Contribution | Representative | Link |
 |-------|--------------|----------------|------|
-| Louies Development | Regional Mapping | Louie | https://links.santosmods.dev/louies-development |
+| - | - | - | - |
 
 ---
 
@@ -31,6 +31,7 @@
 | Name | Role | Affiliation |
 |------|------|-------------|
 | DeputyRyan | Project Lead | SantosMods.dev |
+| the.louie | Development Partner Representative | Louie's Development |
 
 ---
 
