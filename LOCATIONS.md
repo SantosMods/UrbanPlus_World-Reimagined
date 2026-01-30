@@ -11,6 +11,7 @@
 |----------------|----------|-----------|--------|
 | Addon | Sandy Shores Traffic Lights | addon.sandy.trafficlights | ✅ Done (11/2/2025 - SantosMods.dev - DeputyRyan) |
 | Addon | Mount Chiliad Portaloos | addon.mount-chiliad-portaloos | ✅ Done (5/25/2025 - SantosMods.dev - DeputyRyan) |
+| Addon | Sandy Roads | addon.sandy-roads_NOT-FINISHED | ⚙️ In Development - SantosMods.dev - DeputyRyan) |
 ---
 
 ## Postal Registry
