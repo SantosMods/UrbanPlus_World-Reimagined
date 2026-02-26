@@ -184,10 +184,10 @@
 | 177 | — |
 | 178 | — |
 | 179 | — |
-| 180 | ⚙️ Being Worked On (Louie's Development - the.louie)|
-| 181 | ⚙️ Being Worked On (Louie's Development - the.louie)|
-| 182 | ⚙️ Being Worked On (Louie's Development - the.louie)|
-| 183 | ⚙️ Being Worked On (Louie's Development - the.louie)|
+| 180 | ✅ Done (02/25/2026 - Louie's Development - the.louie)|
+| 181 | ✅ Done (02/25/2026 - Louie's Development - the.louie)|
+| 182 | ✅ Done (02/25/2026 - Louie's Development - the.louie)|
+| 183 | ✅ Done (02/25/2026 - Louie's Development - the.louie)|
 | 184 | ⚙️ Being Worked On (Louie's Development - the.louie)|
 | 185 | ⚙️ Being Worked On (Louie's Development - the.louie)|
 | 186 | ⚙️ Being Worked On (Louie's Development - the.louie)|
