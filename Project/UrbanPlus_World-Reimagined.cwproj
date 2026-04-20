@@ -2,17 +2,10 @@
   <Name>New CodeWalker Project</Name>
   <Version value="1" />
   <YmapFilenames>
-    <Item>maping\ymaps-addon\los santos\123.ymap</Item>
-    <Item>maping\ymaps-addon\los santos\180.ymap</Item>
-    <Item>maping\ymaps-addon\los santos\181.ymap</Item>
-    <Item>maping\ymaps-addon\los santos\182.ymap</Item>
-    <Item>maping\ymaps-addon\los santos\183.ymap</Item>
-    <Item>maping\ymaps-addon\los santos\357.ymap</Item>
-    <Item>maping\ymaps-addon\los santos\400.ymap</Item>
-    <Item>maping\ymaps-addon\los santos\540.ymap</Item>
-    <Item>maping\ymaps-addon\los santos\596.ymap</Item>
-    <Item>maping\ymaps-addon\los santos\703.ymap</Item>
-    <Item>maping\ymaps-addon\central county\949.ymap</Item>
+    <Item>maping\props\prop_fence_wire_timber\stream\prop_fence_wire_layout.ymap</Item>
+    <Item>maping\ymaps-addon\addons\addon.mount-chiliad-portaloos.ymap</Item>
+    <Item>maping\ymaps-addon\addons\addon.sandy-roads_not-finished.ymap</Item>
+    <Item>maping\ymaps-addon\addons\addon.sandy.trafficlights.ymap</Item>
     <Item>maping\ymaps-addon\central county\1002.ymap</Item>
     <Item>maping\ymaps-addon\central county\1003.ymap</Item>
     <Item>maping\ymaps-addon\central county\1004.ymap</Item>
@@ -33,27 +26,188 @@
     <Item>maping\ymaps-addon\central county\2002.ymap</Item>
     <Item>maping\ymaps-addon\central county\2003.ymap</Item>
     <Item>maping\ymaps-addon\central county\2015.ymap</Item>
-    <Item>maping\ymaps-addon\addons\addon.mount-chiliad-portaloos.ymap</Item>
-    <Item>maping\ymaps-addon\addons\addon.sandy.trafficlights.ymap</Item>
-    <Item>maping\ymaps-addon\addons\addon.sandy-roads_not-finished.ymap</Item>
+    <Item>maping\ymaps-addon\central county\949.ymap</Item>
+    <Item>maping\ymaps-addon\los santos\123.ymap</Item>
+    <Item>maping\ymaps-addon\los santos\180.ymap</Item>
+    <Item>maping\ymaps-addon\los santos\181.ymap</Item>
+    <Item>maping\ymaps-addon\los santos\182.ymap</Item>
+    <Item>maping\ymaps-addon\los santos\183.ymap</Item>
+    <Item>maping\ymaps-addon\los santos\357.ymap</Item>
+    <Item>maping\ymaps-addon\los santos\400.ymap</Item>
+    <Item>maping\ymaps-addon\los santos\540.ymap</Item>
+    <Item>maping\ymaps-addon\los santos\596.ymap</Item>
+    <Item>maping\ymaps-addon\los santos\703.ymap</Item>
   </YmapFilenames>
   <YtypFilenames>
-    <Item>maping\ymaps-addon\los santos\ld_v2_ev_charger.ytyp</Item>
+    <Item>maping\props\prop_fence_wire_timber\stream\prop_fence_wire_panels.ytyp</Item>
+    <Item>maping\props\pnwsigns\pnwsigns.ytyp</Item>
+    <Item>maping\props\ev_charger\ld_v2_ev_charger.ytyp</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_items.ytyp</Item>
   </YtypFilenames>
   <YbnFilenames />
-  <YndFilenames>
-    <Item>maping\ynds\nodes692.ynd</Item>
-    <Item>maping\ynds\nodes722.ynd</Item>
-    <Item>maping\ynds\nodes723.ynd</Item>
-  </YndFilenames>
+  <YndFilenames />
   <YnvFilenames />
   <TrainsFilenames />
   <ScenarioFilenames />
   <AudioRelFilenames />
   <YdrFilenames>
-    <Item>maping\ymaps-addon\los santos\ld_v2_ev_charger.ydr</Item>
+    <Item>maping\props\prop_fence_wire_timber\stream\prop_fence_wire_panel.ydr</Item>
+    <Item>maping\props\prop_fence_wire_timber\stream\prop_fence_wire_panel1.ydr</Item>
+    <Item>maping\props\prop_fence_wire_timber\stream\prop_fence_wire_panel2.ydr</Item>
+    <Item>maping\props\prop_fence_wire_timber\stream\prop_fence_wire_post.ydr</Item>
+    <Item>maping\props\pnwsigns\prop_flagger_sign_01.ydr</Item>
+    <Item>maping\props\pnwsigns\prop_flagger_sign_02.ydr</Item>
+    <Item>maping\props\ev_charger\ld_v2_ev_charger.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_beam_a.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_beam_b.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_box_a.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_cogwheel_a.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_gear_a.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_nail_a.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_nail_b.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_nut_a.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_nut_b.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_nut_c.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_plate_a.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_plate_b.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_samwheel_a.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_samwheel_b.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_screw_a.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_something_a.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_something_b.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_spring_a.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_spring_b.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_tube_a.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_tube_b.ydr</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_tube_c.ydr</Item>
   </YdrFilenames>
   <YddFilenames />
-  <YftFilenames />
-  <YtdFilenames />
+  <YftFilenames>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_01.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_02.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_03.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_04.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_05.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_06.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_07.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_08.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_09.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_10.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_11.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_12.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_13.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_14.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_15.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_16.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_17.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_18.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_19.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_20.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_21.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_22.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_23.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_24.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_25.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_26.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_27.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_28.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_29.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_30.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_custom.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_detour.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_sign_stop.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work01b.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work02a.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work04b.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work04br.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work04c.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work04cr.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work04d.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work04dr.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work04drx.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work04dx.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work04e.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work04er.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work04erx.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work04ex.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work05.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work06b.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work06c.yft</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work06d.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_01.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_02.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_03.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_04.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_05.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_06.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_07.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_08.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_09.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_10.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_11.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_12.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_13.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_14.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_15.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_16.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_17.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_18.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_19.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_20.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_21.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_22.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_23.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_24.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_25.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_26.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_27.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_28.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_29.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_30.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_custom.yft</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_stop.yft</Item>
+    <Item>maping\props\pnwsigns\prop_trafficdiv_01.yft</Item>
+    <Item>maping\props\pnwsigns\prop_trafficdiv_02.yft</Item>
+  </YftFilenames>
+  <YtdFilenames>
+    <Item>maping\props\prop_fence_wire_timber\stream\prop_fence_wire_textures.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_barrier_work04.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_01.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_02.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_03.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_04.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_05.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_06.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_07.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_08.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_09.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_10.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_11.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_12.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_13.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_14.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_15.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_16.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_17.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_18.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_19.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_20.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_21.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_22.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_23.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_24.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_25.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_26.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_27.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_28.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_29.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_30.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_custom.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_consign_flag_stop.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_flagger_sign.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_flagger_sign_01.ytd</Item>
+    <Item>maping\props\pnwsigns\prop_flagger_sign_02.ytd</Item>
+    <Item>maping\props\bzzz_iron_scrap\stream\bzzz_scrap_texture.ytd</Item>
+  </YtdFilenames>
 </CodeWalkerProject>

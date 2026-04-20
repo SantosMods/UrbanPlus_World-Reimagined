@@ -9,6 +9,21 @@ Participation is expected to meet professional standards. Experimental or low qu
 
 ---
 
+## NOTICE
+
+PNWParksFan
+Traffic Signs and Barricades Pack
+https://www.lcpdfr.com/downloads/gta5mods/misc/31234-traffic-signs-and-barricades-pack-lml-or-dlc-fivem-ready/
+
+BzZzi
+[PROPS] Iron Scrap
+https://forum.cfx.re/t/props-iron-scrap/5281969
+
+LamontCranston
+https://forum.cfx.re/t/free-prop-wire-fence/5273707
+
+---
+
 ## UrbanPlus World Reimagined
 
 **UrbanPlus** is a comprehensive **world transformation project** developed by **SantosMods.dev**, focused on redefining the environmental identity of San Andreas through **modular region based development**.
