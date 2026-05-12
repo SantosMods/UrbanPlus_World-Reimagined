@@ -6,7 +6,7 @@
 
 | Studio | Responsibility | Link |
 |-------|----------------|------|
-| SantosMods.dev | Project Management, Development, Publication | https://store.santosmods.dev/ |
+| SantosMods.dev | Project Management, Development, Publication | https://santosmods.dev/ |
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-### Contributing Studios
+### Contributing Studios (NONE SO FAR)
 
 | Studio | Contribution | Representative | Link |
 |-------|--------------|----------------|------|

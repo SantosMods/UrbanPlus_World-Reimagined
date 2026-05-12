@@ -65,7 +65,7 @@ Violations may result in:
 
 To report a violation or concern, contact:
 
-- Email: [santosmodsdev@gmail.com](mailto:santosmodsdev@gmail.com)  
+- Email: [santosmodsdev@gmail.com](mailto:santosmodsdev@gmail.com)**NOT OFTEN CHECKED**  
 - Discord: [SantosMods.dev Discord](https://links.santosmods.dev/discord)
 
 Reports will be reviewed confidentially and addressed in accordance with this Code and our License Agreement.
@@ -74,7 +74,7 @@ Reports will be reviewed confidentially and addressed in accordance with this Co
 
 ## 7. License Alignment
 
-By participating in this project, you agree to follow this Code of Conduct and the terms of the **UrbanPlus: World Reimagined – License Agreement v4.0**.
+By participating in this project, you agree to follow this Code of Conduct and the terms of the **UrbanPlus: World Reimagined – License Agreement v7.0**.
 
 ---
 

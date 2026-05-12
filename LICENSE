@@ -1,118 +1,281 @@
-UrbanPlus: World Reimagined – License Agreement
-Version: 6.0
-Effective Date: 12/03/2025 (MM/DD/YYYY)
+UrbanPlus: World Reimagined – Open Use License
+Version: 7.0
+Effective Date: 05/11/2026 (MM/DD/YYYY)
 
 ----------------------------------------------------------------
 
-SUMMARY (Plain English)
+SUMMARY
 
-You can use UrbanPlus on your FiveM server.
-You can modify it for your server.
-You can share it for FREE.
+UrbanPlus is a free YMAP modification for Grand Theft Auto V, FiveM, and RageMP.
 
-You CANNOT sell it, monetize it, or reuse its assets elsewhere
-without permission.
+You are allowed to use it, edit it, run it on servers, include it in modpacks,
+share it, mirror it, and use it in monetized servers or communities.
 
-If you break these rules, you lose permission to use it.
+The main restrictions are simple:
+
+- Do not claim you created the original work.
+- Do not remove SantosMods.dev credit from official files.
+- Do not sell UrbanPlus by itself as your own product.
+- Do not use UrbanPlus for illegal, malicious, or abusive purposes.
 
 ----------------------------------------------------------------
 
-1. OWNERSHIP
+1. WORK COVERED BY THIS LICENSE
 
-UrbanPlus: World Reimagined ("the Work") is owned by SantosMods.dev.
+UrbanPlus: World Reimagined ("UrbanPlus" or "the Work") is a free YMAP
+modification created and distributed by SantosMods.dev.
 
-This includes:
-- Maps and YMAPs
-- Models and assets
-- Scripts and code
+UrbanPlus may include:
+
+- YMAP files
+- Map edits
+- Placement data
+- Models
 - Textures
+- Scripts
 - Configuration files
-- Metadata and documentation
+- Metadata
+- Documentation
+- Related project files
 
-This license does NOT transfer ownership to you.
-All rights not clearly given here are reserved.
+This license applies only to the original work created or distributed by
+SantosMods.dev.
 
-2. WHAT YOU ARE ALLOWED TO DO
+2. OFFICIAL DISTRIBUTION LOCATIONS
 
-You MAY:
+The official and authorized distribution locations for UrbanPlus are:
 
-- Use the Work on any FiveM server (public or private)
-- Modify the Work for:
-  - Personal use
-  - Development
-  - Server-side use
-- Rename the Work
-- Share the original or modified Work for FREE if:
-  - This license is included in full
-  - You do NOT claim ownership or authorship
-  - Modified versions are clearly marked as "Unofficial"
-- Include the Work in non-commercial modpacks or mirrors
+- https://santosmods.dev/ (Main Location)
+- https://www.lcpdfr.com/
+- https://thedevhub.org/
 
-3. COMMERCIAL USE (IMPORTANT)
+UrbanPlus may also be shared or mirrored elsewhere under this license, but
+SantosMods.dev only guarantees authenticity, updates, and support for versions
+published through the official locations listed above.
 
-You MAY NOT, without written permission from SantosMods.dev:
+3. PERMITTED USE
 
-- Sell the Work
-- Charge money for access to the Work
-- Lock the Work behind:
-  - Donations
-  - Subscriptions
-  - Paywalls
-  - Paid perks
-- Use the Work to promote paid products or services
+You may use UrbanPlus freely.
 
-To request permission:
-Email: santosmodsdev@gmail.com
-Discord: https://links.santosmods.dev/discord
+You are allowed to:
 
-4. WHAT YOU ARE NOT ALLOWED TO DO
+- Use UrbanPlus in Grand Theft Auto V
+- Use UrbanPlus on FiveM servers
+- Use UrbanPlus on RageMP servers
+- Use UrbanPlus on public servers
+- Use UrbanPlus on private servers
+- Use UrbanPlus in development servers
+- Use UrbanPlus in roleplay communities
+- Use UrbanPlus in non-roleplay communities
+- Use UrbanPlus in personal projects
+- Use UrbanPlus in community projects
+- Use UrbanPlus in server packs
+- Use UrbanPlus in modpacks
+- Use UrbanPlus in mirrors or archives
+- Use UrbanPlus in videos, screenshots, streams, trailers, or promotional media
 
-You MAY NOT:
+You do not need written permission from SantosMods.dev for normal use.
 
-- Privately distribute the Work using locked or invite-only links
-- Reupload the Work as your own
-- Remove copyright notices
-- Extract or reuse assets, models, maps, or code
-  in other or unrelated projects
-- Rebrand the Work as an original creation
+4. MODIFICATION RIGHTS
 
-5. SUPPORT
+You may modify UrbanPlus.
 
-Support is provided ONLY to users who follow this license.
+You are allowed to:
 
-If you violate any part of this license:
-- You lose access to support
-- You lose permission to use the Work
+- Edit files
+- Move objects
+- Remove objects
+- Add objects
+- Rename files
+- Change layouts
+- Adjust compatibility
+- Merge UrbanPlus into a larger server pack
+- Convert or adapt files for compatible GTA V multiplayer use
+- Make custom versions for your own server or project
 
-6. ENFORCEMENT
+Modified versions are allowed.
 
-If this license is violated, SantosMods.dev may:
+If you publish a modified version, you should make it clear that it is modified
+and not an official SantosMods.dev release.
 
-- Request content takedowns
-- Issue DMCA notices
-- Take legal action where applicable
+Suggested label:
 
-Your license automatically ends if you violate these terms.
+"Modified version of UrbanPlus: World Reimagined. Original project by SantosMods.dev."
 
-7. WARRANTY
+5. REDISTRIBUTION RIGHTS
 
-This Work is provided "AS IS".
+You may redistribute UrbanPlus for free.
 
-SantosMods.dev is NOT responsible for issues caused by:
-- Modifications
+You are allowed to:
+
+- Reupload the original files
+- Reupload modified files
+- Include UrbanPlus in a free modpack
+- Include UrbanPlus in a server resource pack
+- Share UrbanPlus with staff or developers
+- Share UrbanPlus in Discord servers
+- Share UrbanPlus through mirrors
+- Archive UrbanPlus for preservation
+
+You should include this license when redistributing UrbanPlus.
+
+6. MONETIZED SERVER USE
+
+UrbanPlus may be used on monetized servers and communities.
+
+You are allowed to use UrbanPlus on servers that have:
+
+- Donations
+- Tebex stores
+- Paid perks
+- Paid whitelist access
+- VIP systems
+- Subscriptions
+- Sponsorships
+- Advertisements
+- Paid hosting
+- Commercial community operations
+
+UrbanPlus may be part of a server, community, or gameplay experience that earns
+money.
+
+You do not need special permission for this.
+
+7. COMMERCIAL LIMITATION
+
+You may not sell UrbanPlus by itself as your own standalone product.
+
+You may not:
+
+- Claim UrbanPlus is your original creation
+- Sell the original UrbanPlus files as your own product
+- Sell a lightly edited version of UrbanPlus as your own product
+- Remove SantosMods.dev credit from official files
+- Misrepresent yourself as SantosMods.dev
+- Misrepresent your version as an official SantosMods.dev release
+
+This does not prevent monetized server use.
+
+This does not prevent use in paid communities.
+
+This does not prevent use in a larger server pack, community pack, or gameplay
+environment.
+
+8. CREDIT
+
+Credit is required when reasonable.
+
+Recommended credit:
+
+"UrbanPlus: World Reimagined by SantosMods.dev"
+
+Credit may be placed in:
+
+- README files
+- Resource descriptions
+- Download pages
+- Documentation
+- Credits pages
+- Discord posts
+- Server credits
+- Website pages
+
+You are not required to place visible in-game credit unless you want to.
+
+9. SUPPORT
+
+SantosMods.dev may provide support for the official release of UrbanPlus.
+
+Support is not guaranteed for:
+
+- Modified versions
+- Reuploaded versions
+- Outdated versions
+- Broken server packs
+- Conflicting resources
+- Third-party edits
+- Unsupported frameworks
+- Unofficial conversions
+
+SantosMods.dev may choose whether to support modified or redistributed versions.
+
+10. THIRD-PARTY RIGHTS
+
+UrbanPlus is an independent community modification.
+
+SantosMods.dev is not affiliated with, endorsed by, sponsored by, or approved by:
+
+- Rockstar Games
+- Take-Two Interactive
+- Cfx.re
+- FiveM
+- RedM
+- RageMP
+- Grand Theft Auto V
+- Any related third-party company or platform
+
+This license does not grant ownership or rights to Grand Theft Auto V,
+Rockstar Games, Take-Two Interactive, FiveM, Cfx.re, RageMP, or any third-party
+intellectual property.
+
+All third-party trademarks, names, brands, and assets remain the property of
+their respective owners.
+
+11. NO WARRANTY
+
+UrbanPlus is provided "AS IS".
+
+SantosMods.dev does not guarantee that UrbanPlus will:
+
+- Work on every server
+- Work with every framework
+- Work with every game build
+- Work with every map resource
+- Be free of bugs
+- Be compatible with all future updates
+
+You use UrbanPlus at your own risk.
+
+SantosMods.dev is not responsible for:
+
+- Server crashes
+- Data loss
+- Resource conflicts
+- Performance issues
+- Broken edits
 - Misuse
-- Server incompatibilities
-- Unauthorized redistribution
+- Unauthorized modifications
+- Third-party redistribution issues
 
-Only the official, unmodified release is supported.
+12. TERMINATION
 
-8. ACCEPTANCE
+Your rights under this license only end if you seriously violate the basic terms
+of this license.
 
-By downloading, using, modifying, or sharing this Work,
-you agree to all terms in this license.
+Examples include:
 
-9. CONTACT
+- Claiming you created the original UrbanPlus project
+- Selling UrbanPlus by itself as your own standalone product
+- Removing SantosMods.dev credit from official files
+- Using UrbanPlus for illegal, malicious, or abusive purposes
+- Pretending to be SantosMods.dev
+
+If the violation is fixed, SantosMods.dev may choose to restore permission.
+
+13. ACCEPTANCE
+
+By downloading, installing, using, modifying, sharing, mirroring, or redistributing
+UrbanPlus, you agree to this license.
+
+14. CONTACT
 
 SantosMods.dev
-Email: santosmodsdev@gmail.com
-Discord: https://links.santosmods.dev/discord
+
+Main Website:
+https://santosmods.dev/
+
+Email:
+santosmodsdev@gmail.com
+
+Discord:
+https://links.santosmods.dev/discord
