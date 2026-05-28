@@ -1,29 +1,3 @@
-## Volunteer Collaboration Notice
-
-UrbanPlus World Reimagined is actively inviting **serious volunteer contributors** including **development studios, modding teams, and independent creators** to participate in the expansion and refinement of a large scale world overhaul project.
-
-This initiative is **strictly non commercial** and built on structured collaboration.  
-All approved contributors will receive **formal credit** for their work.
-
-Participation is expected to meet professional standards. Experimental or low quality submissions will not be accepted.
-
----
-
-## NOTICE
-
-PNWParksFan
-Traffic Signs and Barricades Pack
-https://www.lcpdfr.com/downloads/gta5mods/misc/31234-traffic-signs-and-barricades-pack-lml-or-dlc-fivem-ready/
-
-BzZzi
-[PROPS] Iron Scrap
-https://forum.cfx.re/t/props-iron-scrap/5281969
-
-LamontCranston
-https://forum.cfx.re/t/free-prop-wire-fence/5273707
-
----
-
 ## UrbanPlus World Reimagined
 
 **UrbanPlus** is a comprehensive **world transformation project** developed by **SantosMods.dev**, focused on redefining the environmental identity of San Andreas through **modular region based development**.
@@ -69,6 +43,20 @@ This build introduces the **first public alpha with full Story Mode compatibilit
 
 ---
 
+## Credits
+
+PNWParksFan
+Traffic Signs and Barricades Pack
+https://www.lcpdfr.com/downloads/gta5mods/misc/31234-traffic-signs-and-barricades-pack-lml-or-dlc-fivem-ready/
+
+BzZzi
+[PROPS] Iron Scrap
+https://forum.cfx.re/t/props-iron-scrap/5281969
+
+LamontCranston
+https://forum.cfx.re/t/free-prop-wire-fence/5273707
+---
+
 ## Dependencies
 
 UrbanPlus requires **bob74_ipl v2.4.1** for proper prop handling and world stability.
@@ -79,8 +67,8 @@ Due to its MIT license, bob74_ipl is bundled with all official UrbanPlus release
 
 ## Support and Contact
 
-- Website: https://urbanplus.dev  
-- Discord: https://links.santosmods.dev/discord  
+- Website: https://urbanplus.dev **Currently Offline** 
+- Discord: https://santosmods.dev/discord  
 - GitHub: https://github.com/SantosMods/UrbanPlus_World-Reimagined  
 
 ---
