@@ -8,21 +8,6 @@ UrbanPlus is designed for clean integration across multiplayer and single-player
 
 ---
 
-## Release Status / Roadmap
-
-| Game | Status |
-|-------|------|
-| FiveM | Full Support |
-| Story Mode | Semi Support |
-| RageMP | Support Ended |
-| Alt:V| No Support |   
-
-| Project | Status |
-|-------|------|
-| Version 1.0 | Q4 2026 |
-
----
-
 ## Core Capabilities
 
 * **Custom YMAP Development** with reworked and expanded regions
