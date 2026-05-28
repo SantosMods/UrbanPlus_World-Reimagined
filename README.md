@@ -67,7 +67,7 @@ Due to its MIT license, bob74_ipl is bundled with all official UrbanPlus release
 
 ## Support and Contact
 
-- Website: https://urbanplus.dev  
+- Website: https://urbanplus.dev **Currently Offline** 
 - Discord: https://santosmods.dev/discord  
 - GitHub: https://github.com/SantosMods/UrbanPlus_World-Reimagined  
 
