@@ -9,7 +9,6 @@
 
 | Addon |Exra Name | File Name | Status |
 |----------------|----------|-----------|--------|
-| Addon | Sandy Shores Traffic Lights | addon.sandy.trafficlights | ✅ Done (11/2/2025 - SantosMods.dev - DeputyRyan) |
 | Addon | Mount Chiliad Portaloos | addon.mount-chiliad-portaloos | ✅ Done (5/25/2025 - SantosMods.dev - DeputyRyan) |
 | Addon | Sandy Roads | addon.sandy-roads_NOT-FINISHED | ⚙️ In Development - SantosMods.dev - DeputyRyan) |
 ---
@@ -478,7 +477,7 @@
 | 593 | — |
 | 594 | — |
 | 595 | — |
-| 596 | ⚙️ Being Worked On (SantosMods.dev - DeputyRyan)|
+| 596 | ✅ Done (3/5/2025 - SantosMods.dev - DeputyRyan)|
 | 597 | — |
 | 598 | — |
 | 599 | — |
@@ -810,7 +809,7 @@
 | 1036 | ✅ Done (5/23/2025 - SantosMods.dev - DeputyRyan)|
 | 1037 | — |
 | 1038 | — |
-| 1039 | — |
+| 1039 | ✅ Done (3/5/2026 - SantosMods.dev - DeputyRyan)|
 | 1040 | ✅ Done (5/23/2025 - SantosMods.dev - DeputyRyan)|
 | 1041 | — |
 | 1042 | — |
@@ -836,7 +835,7 @@
 | 2009 | — |
 | 2010 | — |
 | 2011 | — |
-| 2012 | — |
+| 2012 | ✅ Done (6/17/2026 - SantosMods.dev - DeputyRyan)|
 | 2013 | — |
 | 2014 | — |
 | 2015 | ✅ Done (5/23/2025 - SantosMods.dev - DeputyRyan)|
