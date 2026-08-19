@@ -50,7 +50,7 @@ UrbanPlus is designed for clean integration across multiplayer and single-player
 | Milestone | Status / Target |
 |---|---|
 | Current Public Build | Active Alpha |
-| Version 1.0 | Targeted for Q4 2026 |
+| Version 1.0 | Targeted for Q2 2027 |
 ---
 
 ## Credits
