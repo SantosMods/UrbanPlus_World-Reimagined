@@ -1,6 +1,6 @@
 > **Total Postals:** 865  
 > **Total Addons:** 2  
-> **Managed by:** [SantosMods.dev](https://store.santosmods.dev/)  
+> **Managed by:** [SantosMods.dev](https://santosmods.dev/)  
 > **Purpose:** Internal spatial reference for mapping, YMAP placement, and world routing.
 
 ---
@@ -11,6 +11,7 @@
 |----------------|----------|-----------|--------|
 | Addon | Mount Chiliad Portaloos | addon.mount-chiliad-portaloos | ✅ Done (5/25/2025 - SantosMods.dev - DeputyRyan) |
 | Addon | Sandy Roads | addon.sandy-roads_NOT-FINISHED | ⚙️ In Development - SantosMods.dev - DeputyRyan) |
+
 ---
 
 ## Postal Registry
