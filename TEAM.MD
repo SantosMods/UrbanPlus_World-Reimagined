@@ -14,7 +14,7 @@
 
 | Studio | Role | Representative | Link |
 |-------|------|----------------|------|
-| Louie's Development | Development Partner | the.louie | [Discord](https://links.santosmods.dev/louies-development) |
+| Louie's Development | Development Partner | the.louie | [Louie's Development Discord](https://discord.gg/7AaHPNT7Bh) |
 
 ---
 
@@ -39,7 +39,7 @@
 
 | Studio | Former Contribution | Operated By | Link |
 |-------|---------------------|-------------|------|
-| JMMods | Regional Mapping | JonJonGamesOfficial | https://links.santosmods.dev/jmmods |
+| JMMods | Regional Mapping | JonJonGamesOfficial | [JMMods Discord](https://discord.gg/N9KgZx4KUn) |
 
 ---
 
